@@ -1,0 +1,54 @@
+> sum01
+Call:
+ergm(formula = g1 ~ edges + nodefactor(~Category, levels = NULL) + 
+    nodematch(~Category, levels = NULL, diff = TRUE))
+
+Maximum Likelihood Results:
+
+                                                                                  Estimate Std. Error MCMC %  z value Pr(>|z|)    
+edges                                                                            -8.160777   0.070586      0 -115.615   <1e-04 ***
+nodefactor.Category.abnormal clinical findings                                    0.380070   0.048570      0    7.825   <1e-04 ***
+nodefactor.Category.Blood and immune disorders                                    0.848891   0.051273      0   16.556   <1e-04 ***
+nodefactor.Category.Certain conditions originating in the perinatal period       -0.009632   0.059824      0   -0.161   0.8721    
+nodefactor.Category.Certain infectious and parasitic diseases                     0.301433   0.059956      0    5.028   <1e-04 ***
+nodefactor.Category.Congenital and chromosomal abnormalities                      0.113810   0.056416      0    2.017   0.0437 *  
+nodefactor.Category.Diseases of the circulatory system                            0.469675   0.043969      0   10.682   <1e-04 ***
+nodefactor.Category.Diseases of the digestive system                              0.015092   0.053238      0    0.283   0.7768    
+nodefactor.Category.Diseases of the eye and ear                                   0.282873   0.056885      0    4.973   <1e-04 ***
+nodefactor.Category.Diseases of the genitourinary system                          0.523663   0.051637      0   10.141   <1e-04 ***
+nodefactor.Category.Diseases of the musculoskeletal system and connective tissue -0.186339   0.047190      0   -3.949   <1e-04 ***
+nodefactor.Category.Diseases of the nervous system                                0.808423   0.047953      0   16.859   <1e-04 ***
+nodefactor.Category.Diseases of the respiratory system                            0.888357   0.050484      0   17.597   <1e-04 ***
+nodefactor.Category.Diseases of the skin and subcutaneous tissue                  0.023679   0.054253      0    0.436   0.6625    
+nodefactor.Category.Endocrine, nutritional and metabolic diseases                 1.420980   0.044336      0   32.050   <1e-04 ***
+nodefactor.Category.Injury or poisoning                                          -0.764756   0.044479      0  -17.194   <1e-04 ***
+nodefactor.Category.Mental and behavioural disorders                              0.529242   0.050839      0   10.410   <1e-04 ***
+nodefactor.Category.Neoplasms                                                    -0.253088   0.061410      0   -4.121   <1e-04 ***
+nodefactor.Category.Other health services                                         1.151875   0.041161      0   27.984   <1e-04 ***
+nodefactor.Category.Pregnancy, childbirth and the puerperium                            NA   0.000000      0       NA       NA    
+nodematch.Category.abnormal clinical findings                                     2.423903   0.087727      0   27.630   <1e-04 ***
+nodematch.Category.Blood and immune disorders                                     1.535146   0.138267      0   11.103   <1e-04 ***
+nodematch.Category.Certain conditions originating in the perinatal period         5.463435   0.100378      0   54.428   <1e-04 ***
+nodematch.Category.Certain infectious and parasitic diseases                      2.326487   0.170011      0   13.684   <1e-04 ***
+nodematch.Category.Congenital and chromosomal abnormalities                       3.669564   0.104891      0   34.984   <1e-04 ***
+nodematch.Category.Diseases of the circulatory system                             2.183149   0.062068      0   35.174   <1e-04 ***
+nodematch.Category.Diseases of the digestive system                               3.122292   0.099861      0   31.266   <1e-04 ***
+nodematch.Category.Diseases of the eye and ear                                    2.941639   0.123646      0   23.791   <1e-04 ***
+nodematch.Category.Diseases of the genitourinary system                           2.315679   0.110420      0   20.972   <1e-04 ***
+nodematch.Category.Diseases of the musculoskeletal system and connective tissue   2.892288   0.072827      0   39.715   <1e-04 ***
+nodematch.Category.Diseases of the nervous system                                 0.988911   0.129239      0    7.652   <1e-04 ***
+nodematch.Category.Diseases of the respiratory system                             1.901908   0.115868      0   16.414   <1e-04 ***
+nodematch.Category.Diseases of the skin and subcutaneous tissue                   3.125197   0.104872      0   29.800   <1e-04 ***
+nodematch.Category.Endocrine, nutritional and metabolic diseases                  1.536950   0.074998      0   20.493   <1e-04 ***
+nodematch.Category.Injury or poisoning                                            4.389922   0.053572      0   81.944   <1e-04 ***
+nodematch.Category.Mental and behavioural disorders                               2.511747   0.099995      0   25.119   <1e-04 ***
+nodematch.Category.Neoplasms                                                      3.747051   0.124351      0   30.133   <1e-04 ***
+nodematch.Category.Other health services                                          0.664823   0.054910      0   12.107   <1e-04 ***
+nodematch.Category.Pregnancy, childbirth and the puerperium                       4.156895   0.076626      0   54.249   <1e-04 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+     Null Deviance: 27306153  on 19697226  degrees of freedom
+ Residual Deviance:   298102  on 19697187  degrees of freedom
+ 
+AIC: 298180  BIC: 298757  (Smaller is better. MC Std. Err. = 0)

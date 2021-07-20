@@ -140,8 +140,11 @@ tnetworks[[3]]<-g3
 
 library(statnet)
 ?stergm
-model.tergm <- stergm(tnetworks,
+model.tergm <- tergm(tnetworks,
                       formation = ~edges+nodefactor(~Category,levels=NULL)+nodematch(~Category, levels=NULL, diff=TRUE),
                       dissolution = ~edges+nodefactor(~Category,levels=NULL)+nodematch(~Category, levels=NULL, diff=TRUE),
                       estimate = "CMLE",
                       times = 1:3)
+
+
+
