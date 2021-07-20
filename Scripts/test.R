@@ -2,11 +2,11 @@ library(ergm)
 library(network)
 set.seed(0)
 num_nodes <- 5
-my_matrix <- matrix(c(0,1,0,0,1,
+my_matrix <- matrix(c(0,1,1,0,1,
                       1,0,1,1,1,
-                      1,0,0,0,1,
-                      1,1,1,0,1,
-                      1,0,0,1,0),
+                      1,1,0,0,0,
+                      0,1,0,0,1,
+                      1,1,0,1,0),
                     nrow = num_nodes,
                     ncol = num_nodes)
 
@@ -34,6 +34,6 @@ plot.network(net, # our network object
              object.scale = 0.001
 )
 
-model <- ergm(net~ edges+nodefactor(~Category,levels=NULL),verbose = TRUE)
+model <- ergm(net~ edges+nodefactor(~Category,levels=NULL)+nodematch(~Category, diff=TRUE),verbose = TRUE)
 summary(model)
 ? nodal_attributes
