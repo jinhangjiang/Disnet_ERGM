@@ -1,0 +1,79 @@
+Id,alphabet,Description,Category,Prevalence_20192,Prevalence_20201,Prevalence_20202
+c6921,c,Malignant neoplasm of right retina,Neoplasms,26.0,11.0,
+c6922,c,Malignant neoplasm of left retina,Neoplasms,22.0,11.0,
+c7801,c,Secondary malignant neoplasm of right lung,Neoplasms,720.0,633.0,618.0
+c7802,c,Secondary malignant neoplasm of left lung,Neoplasms,644.0,596.0,592.0
+f0280,f,Dementia in other diseases classified elsewhere without behavioral disturbance,Mental and behavioural disorders,3520.0,3475.0,3371.0
+g309,g,"Alzheimer's disease, unspecified",Diseases of the nervous system,2663.0,2524.0,2431.0
+h01003,h,"Unspecified blepharitis right eye, unspecified eyelid",Diseases of the eye and ear,10.0,,14.0
+h01006,h,"Unspecified blepharitis left eye, unspecified eyelid",Diseases of the eye and ear,12.0,14.0,14.0
+i120,i,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,Diseases of the circulatory system,6147.0,5767.0,6173.0
+i69310,i,Attention and concentration deficit following cerebral infarction,Diseases of the circulatory system,77.0,73.0,80.0
+i69314,i,Frontal lobe and executive function deficit following cerebral infarction,Diseases of the circulatory system,94.0,70.0,95.0
+i8311,i,Varicose veins of right lower extremity with inflammation,Diseases of the circulatory system,34.0,25.0,32.0
+i8312,i,Varicose veins of left lower extremity with inflammation,Diseases of the circulatory system,33.0,29.0,32.0
+i83218,i,Varicose veins of right lower extremity with both ulcer of other part of lower extremity and inflammation,Diseases of the circulatory system,36.0,29.0,27.0
+i83228,i,Varicose veins of left lower extremity with both ulcer of other part of lower extremity and inflammation,Diseases of the circulatory system,37.0,33.0,34.0
+m19041,m,"Primary osteoarthritis, right hand",Diseases of the musculoskeletal system and connective tissue,246.0,223.0,204.0
+m19042,m,"Primary osteoarthritis, left hand",Diseases of the musculoskeletal system and connective tissue,229.0,218.0,205.0
+m62561,m,"Muscle wasting and atrophy, not elsewhere classified, right lower leg",Diseases of the musculoskeletal system and connective tissue,21.0,12.0,14.0
+m62562,m,"Muscle wasting and atrophy, not elsewhere classified, left lower leg",Diseases of the musculoskeletal system and connective tissue,22.0,10.0,13.0
+n186,n,End stage renal disease,Diseases of the genitourinary system,11130.0,11113.0,11507.0
+o30043,o,"Twin pregnancy, dichorionic/diamniotic, third trimester","Pregnancy, childbirth and the puerperium",459.0,423.0,413.0
+o3403,o,"Maternal care for unspecified congenital malformation of uterus, third trimester","Pregnancy, childbirth and the puerperium",168.0,139.0,148.0
+o364xx0,o,"Maternal care for intrauterine death, not applicable or unspecified","Pregnancy, childbirth and the puerperium",174.0,157.0,172.0
+o6014x1,o,"Preterm labor third trimester with preterm delivery third trimester, fetus 1","Pregnancy, childbirth and the puerperium",34.0,27.0,30.0
+o6014x2,o,"Preterm labor third trimester with preterm delivery third trimester, fetus 2","Pregnancy, childbirth and the puerperium",43.0,34.0,35.0
+q513,q,Bicornate uterus,Congenital and chromosomal abnormalities,125.0,93.0,111.0
+r402110,r,"Coma scale, eyes open, never, unspecified time",abnormal clinical findings,17.0,22.0,19.0
+r402111,r,"Coma scale, eyes open, never, in the field [EMT or ambulance]",abnormal clinical findings,66.0,70.0,63.0
+r402112,r,"Coma scale, eyes open, never, at arrival to emergency department",abnormal clinical findings,375.0,354.0,344.0
+r402141,r,"Coma scale, eyes open, spontaneous, in the field [EMT or ambulance]",abnormal clinical findings,84.0,60.0,66.0
+r402142,r,"Coma scale, eyes open, spontaneous, at arrival to emergency department",abnormal clinical findings,962.0,796.0,797.0
+r402143,r,"Coma scale, eyes open, spontaneous, at hospital admission",abnormal clinical findings,457.0,437.0,334.0
+r402144,r,"Coma scale, eyes open, spontaneous, 24 hours or more after hospital admission",abnormal clinical findings,117.0,117.0,96.0
+r402210,r,"Coma scale, best verbal response, none, unspecified time",abnormal clinical findings,28.0,29.0,46.0
+r402211,r,"Coma scale, best verbal response, none, in the field [EMT or ambulance]",abnormal clinical findings,78.0,74.0,65.0
+r402212,r,"Coma scale, best verbal response, none, at arrival to emergency department",abnormal clinical findings,460.0,433.0,430.0
+r402251,r,"Coma scale, best verbal response, oriented, in the field [EMT or ambulance]",abnormal clinical findings,53.0,32.0,43.0
+r402252,r,"Coma scale, best verbal response, oriented, at arrival to emergency department",abnormal clinical findings,716.0,555.0,555.0
+r402253,r,"Coma scale, best verbal response, oriented, at hospital admission",abnormal clinical findings,348.0,271.0,241.0
+r402254,r,"Coma scale, best verbal response, oriented, 24 hours or more after hospital admission",abnormal clinical findings,76.0,54.0,25.0
+r402311,r,"Coma scale, best motor response, none, in the field [EMT or ambulance]",abnormal clinical findings,54.0,55.0,47.0
+r402312,r,"Coma scale, best motor response, none, at arrival to emergency department",abnormal clinical findings,244.0,234.0,225.0
+r402361,r,"Coma scale, best motor response, obeys commands, in the field [EMT or ambulance]",abnormal clinical findings,75.0,45.0,61.0
+r402362,r,"Coma scale, best motor response, obeys commands, at arrival to emergency department",abnormal clinical findings,923.0,735.0,763.0
+r402363,r,"Coma scale, best motor response, obeys commands, at hospital admission",abnormal clinical findings,460.0,407.0,337.0
+r402364,r,"Coma scale, best motor response, obeys commands, 24 hours or more after hospital admission",abnormal clinical findings,122.0,126.0,89.0
+r41840,r,Attention and concentration deficit,abnormal clinical findings,122.0,161.0,195.0
+r41844,r,Frontal lobe and executive function deficit,abnormal clinical findings,136.0,120.0,157.0
+s40021d,s,"Contusion of right upper arm, subsequent encounter",Injury or poisoning,13.0,14.0,12.0
+s40022d,s,"Contusion of left upper arm, subsequent encounter",Injury or poisoning,13.0,12.0,13.0
+s40811d,s,"Abrasion of right upper arm, subsequent encounter",Injury or poisoning,16.0,11.0,21.0
+s40812d,s,"Abrasion of left upper arm, subsequent encounter",Injury or poisoning,15.0,16.0,23.0
+s92321a,s,"Displaced fracture of second metatarsal bone, right foot, initial encounter for closed fracture",Injury or poisoning,53.0,39.0,43.0
+s92322a,s,"Displaced fracture of second metatarsal bone, left foot, initial encounter for closed fracture",Injury or poisoning,30.0,38.0,34.0
+s92322d,s,"Displaced fracture of second metatarsal bone, left foot, subsequent encounter for fracture with routine healing",Injury or poisoning,12.0,,
+s92324a,s,"Nondisplaced fracture of second metatarsal bone, right foot, initial encounter for closed fracture",Injury or poisoning,10.0,,13.0
+s92331a,s,"Displaced fracture of third metatarsal bone, right foot, initial encounter for closed fracture",Injury or poisoning,41.0,38.0,45.0
+s92332a,s,"Displaced fracture of third metatarsal bone, left foot, initial encounter for closed fracture",Injury or poisoning,31.0,32.0,35.0
+s92334a,s,"Nondisplaced fracture of third metatarsal bone, right foot, initial encounter for closed fracture",Injury or poisoning,13.0,,13.0
+s92341a,s,"Displaced fracture of fourth metatarsal bone, right foot, initial encounter for closed fracture",Injury or poisoning,40.0,28.0,49.0
+s92342a,s,"Displaced fracture of fourth metatarsal bone, left foot, initial encounter for closed fracture",Injury or poisoning,30.0,31.0,31.0
+s92342d,s,"Displaced fracture of fourth metatarsal bone, left foot, subsequent encounter for fracture with routine healing",Injury or poisoning,12.0,,10.0
+t2023xa,t,"Burn of second degree of chin, initial encounter",Injury or poisoning,16.0,,
+t2024xa,t,"Burn of second degree of nose (septum), initial encounter",Injury or poisoning,18.0,22.0,16.0
+t23261a,t,"Burn of second degree of back of right hand, initial encounter",Injury or poisoning,25.0,21.0,18.0
+t23262a,t,"Burn of second degree of back of left hand, initial encounter",Injury or poisoning,23.0,13.0,
+t23341a,t,"Burn of third degree of multiple right fingers (nail), including thumb, initial encounter",Injury or poisoning,13.0,12.0,
+t23342a,t,"Burn of third degree of multiple left fingers (nail), including thumb, initial encounter",Injury or poisoning,13.0,18.0,
+t23351a,t,"Burn of third degree of right palm, initial encounter",Injury or poisoning,16.0,11.0,10.0
+t23352a,t,"Burn of third degree of left palm, initial encounter",Injury or poisoning,12.0,15.0,11.0
+t23362a,t,"Burn of third degree of back of left hand, initial encounter",Injury or poisoning,14.0,15.0,
+z114,z,Encounter for screening for human immunodeficiency virus [HIV],Other health services,229.0,533.0,1120.0
+z1159,z,Encounter for screening for other viral diseases,Other health services,219.0,6883.0,8005.0
+z371,z,Single stillbirth,Other health services,294.0,292.0,302.0
+z372,z,"Twins, both liveborn",Other health services,596.0,539.0,556.0
+z9841,z,"Cataract extraction status, right eye",Other health services,322.0,319.0,303.0
+z9842,z,"Cataract extraction status, left eye",Other health services,331.0,325.0,313.0
+z992,z,Dependence on renal dialysis,Other health services,9768.0,9692.0,10254.0
