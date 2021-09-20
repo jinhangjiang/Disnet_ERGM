@@ -1,4 +1,4 @@
-library(ergm.count)
+library(ergm)
 library(network)
 
 set.seed(0)
