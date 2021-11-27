@@ -1,0 +1,1289 @@
+Id,alphabet,Description,Category,Prevalence_20201,Cost_support_20201,Chronic Indicator
+a419,a,"Sepsis, unspecified organism",Certain infectious and parasitic diseases,17062.0,0.134861094830618,a
+a528,a,"Late syphilis, latent",Certain infectious and parasitic diseases,42.0,0.0952380952380952,c
+a530,a,"Latent syphilis, unspecified as early or late",Certain infectious and parasitic diseases,61.0,0.0655737704918033,c
+a549,a,"Gonococcal infection, unspecified",Certain infectious and parasitic diseases,48.0,0.0208333333333333,a
+a6000,a,"Herpesviral infection of urogenital system, unspecified",Certain infectious and parasitic diseases,411.0,0.024330900243308997,c
+b009,b,"Herpesviral infection, unspecified",Certain infectious and parasitic diseases,565.0,0.031858407079646,a
+b9620,b,Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere,Certain infectious and parasitic diseases,6447.0,0.0648363579959671,a
+b9710,b,Unspecified enterovirus as the cause of diseases classified elsewhere,Certain infectious and parasitic diseases,355.0,0.07605633802816901,a
+b9789,b,Other viral agents as the cause of diseases classified elsewhere,Certain infectious and parasitic diseases,1147.0,0.0697471665213601,a
+c3481,c,Malignant neoplasm of overlapping sites of right bronchus and lung,Neoplasms,14.0,0.0,c
+c3482,c,Malignant neoplasm of overlapping sites of left bronchus and lung,Neoplasms,11.0,0.0909090909090909,c
+c3490,c,Malignant neoplasm of unspecified part of unspecified bronchus or lung,Neoplasms,1468.0,0.0606267029972752,c
+c561,c,Malignant neoplasm of right ovary,Neoplasms,96.0,0.10416666666666699,c
+c562,c,Malignant neoplasm of left ovary,Neoplasms,97.0,0.0412371134020619,c
+c6921,c,Malignant neoplasm of right retina,Neoplasms,11.0,0.0,c
+c6922,c,Malignant neoplasm of left retina,Neoplasms,11.0,0.0,c
+c7490,c,Malignant neoplasm of unspecified part of unspecified adrenal gland,Neoplasms,40.0,0.375,c
+c7a012,c,Malignant carcinoid tumor of the ileum,Neoplasms,10.0,0.1,c
+c7a090,c,Malignant carcinoid tumor of the bronchus and lung,Neoplasms,16.0,0.125,c
+c7a1,c,Malignant poorly differentiated neuroendocrine tumors,Neoplasms,46.0,0.0217391304347826,c
+c7a8,c,Other malignant neuroendocrine tumors,Neoplasms,157.0,0.0828025477707006,c
+c7b02,c,Secondary carcinoid tumors of liver,Neoplasms,25.0,0.04,c
+c7b09,c,Secondary carcinoid tumors of other sites,Neoplasms,16.0,0.125,c
+c7b8,c,Other secondary neuroendocrine tumors,Neoplasms,98.0,0.0612244897959184,c
+c7800,c,Secondary malignant neoplasm of unspecified lung,Neoplasms,1150.0,0.0452173913043478,c
+c7801,c,Secondary malignant neoplasm of right lung,Neoplasms,633.0,0.0679304897314376,c
+c7802,c,Secondary malignant neoplasm of left lung,Neoplasms,596.0,0.0805369127516778,c
+c786,c,Secondary malignant neoplasm of retroperitoneum and peritoneum,Neoplasms,1012.0,0.0770750988142292,c
+c787,c,Secondary malignant neoplasm of liver and intrahepatic bile duct,Neoplasms,2508.0,0.0558213716108453,c
+c7901,c,Secondary malignant neoplasm of right kidney and renal pelvis,Neoplasms,28.0,0.0714285714285714,c
+c7902,c,Secondary malignant neoplasm of left kidney and renal pelvis,Neoplasms,35.0,0.11428571428571402,c
+c7931,c,Secondary malignant neoplasm of brain,Neoplasms,1219.0,0.0631665299425759,c
+c7951,c,Secondary malignant neoplasm of bone,Neoplasms,3011.0,0.0687479242776486,c
+c7952,c,Secondary malignant neoplasm of bone marrow,Neoplasms,69.0,0.144927536231884,c
+c7961,c,Secondary malignant neoplasm of right ovary,Neoplasms,28.0,0.178571428571429,c
+c7962,c,Secondary malignant neoplasm of left ovary,Neoplasms,23.0,0.17391304347826098,c
+c7971,c,Secondary malignant neoplasm of right adrenal gland,Neoplasms,132.0,0.0833333333333333,c
+c7972,c,Secondary malignant neoplasm of left adrenal gland,Neoplasms,179.0,0.0558659217877095,c
+c8350,c,"Lymphoblastic (diffuse) lymphoma, unspecified site",Neoplasms,19.0,0.157894736842105,c
+d122,d,Benign neoplasm of ascending colon,Blood and immune disorders ,149.0,0.0335570469798658,a
+d123,d,Benign neoplasm of transverse colon,Blood and immune disorders ,144.0,0.0347222222222222,a
+d125,d,Benign neoplasm of sigmoid colon,Blood and immune disorders ,120.0,0.0416666666666667,a
+d252,d,Subserosal leiomyoma of uterus,Blood and immune disorders ,121.0,0.0247933884297521,a
+d259,d,"Leiomyoma of uterus, unspecified",Blood and immune disorders ,981.0,0.0254841997961264,a
+d4709,d,Other mast cell neoplasms of uncertain behavior,Blood and immune disorders ,14.0,0.0,a
+d5740,d,Sickle-cell thalassemia without crisis,Blood and immune disorders ,15.0,0.0666666666666667,c
+d61810,d,Antineoplastic chemotherapy induced pancytopenia,Blood and immune disorders ,1813.0,0.21235521235521201,c
+d631,d,Anemia in chronic kidney disease,Blood and immune disorders ,13068.0,0.0971839608203245,c
+d6481,d,Anemia due to antineoplastic chemotherapy,Blood and immune disorders ,1149.0,0.0452567449956484,c
+d6832,d,Hemorrhagic disorder due to extrinsic circulating anticoagulants,Blood and immune disorders ,542.0,0.14391143911439097,c
+d684,d,Acquired coagulation factor deficiency,Blood and immune disorders ,1754.0,0.18015963511972602,c
+d709,d,"Neutropenia, unspecified",Blood and immune disorders ,1096.0,0.10583941605839399,c
+d89811,d,Chronic graft-versus-host disease,Blood and immune disorders ,90.0,0.0777777777777778,c
+d89813,d,"Graft-versus-host disease, unspecified",Blood and immune disorders ,86.0,0.19767441860465101,c
+e038,e,Other specified hypothyroidism,"Endocrine, nutritional and metabolic diseases",226.0,0.0973451327433628,c
+e039,e,"Hypothyroidism, unspecified","Endocrine, nutritional and metabolic diseases",40337.0,0.0506482881721496,c
+e0580,e,Other thyrotoxicosis without thyrotoxic crisis or storm,"Endocrine, nutritional and metabolic diseases",94.0,0.0531914893617021,c
+e0865,e,Diabetes mellitus due to underlying condition with hyperglycemia,"Endocrine, nutritional and metabolic diseases",35.0,0.2,c
+e089,e,Diabetes mellitus due to underlying condition without complications,"Endocrine, nutritional and metabolic diseases",33.0,0.0909090909090909,c
+e1022,e,Type 1 diabetes mellitus with diabetic chronic kidney disease,"Endocrine, nutritional and metabolic diseases",896.0,0.0758928571428571,c
+e10319,e,Type 1 diabetes mellitus with unspecified diabetic retinopathy without macular edema,"Endocrine, nutritional and metabolic diseases",247.0,0.0607287449392713,c
+e1042,e,Type 1 diabetes mellitus with diabetic polyneuropathy,"Endocrine, nutritional and metabolic diseases",423.0,0.0614657210401891,c
+e1043,e,Type 1 diabetes mellitus with diabetic autonomic (poly)neuropathy,"Endocrine, nutritional and metabolic diseases",529.0,0.0586011342155009,c
+e10621,e,Type 1 diabetes mellitus with foot ulcer,"Endocrine, nutritional and metabolic diseases",224.0,0.0714285714285714,c
+e10649,e,Type 1 diabetes mellitus with hypoglycemia without coma,"Endocrine, nutritional and metabolic diseases",492.0,0.0772357723577236,c
+e1065,e,Type 1 diabetes mellitus with hyperglycemia,"Endocrine, nutritional and metabolic diseases",946.0,0.0665961945031713,c
+e1069,e,Type 1 diabetes mellitus with other specified complication,"Endocrine, nutritional and metabolic diseases",145.0,0.0758620689655172,c
+e109,e,Type 1 diabetes mellitus without complications,"Endocrine, nutritional and metabolic diseases",387.0,0.0232558139534884,c
+e1122,e,Type 2 diabetes mellitus with diabetic chronic kidney disease,"Endocrine, nutritional and metabolic diseases",24634.0,0.0815133555248843,c
+e1139,e,Type 2 diabetes mellitus with other diabetic ophthalmic complication,"Endocrine, nutritional and metabolic diseases",161.0,0.0745341614906832,c
+e1142,e,Type 2 diabetes mellitus with diabetic polyneuropathy,"Endocrine, nutritional and metabolic diseases",7598.0,0.0671229270860753,c
+e1143,e,Type 2 diabetes mellitus with diabetic autonomic (poly)neuropathy,"Endocrine, nutritional and metabolic diseases",1292.0,0.0626934984520124,c
+e1152,e,Type 2 diabetes mellitus with diabetic peripheral angiopathy with gangrene,"Endocrine, nutritional and metabolic diseases",1501.0,0.175882744836775,c
+e11621,e,Type 2 diabetes mellitus with foot ulcer,"Endocrine, nutritional and metabolic diseases",3827.0,0.0836164097204076,c
+e1165,e,Type 2 diabetes mellitus with hyperglycemia,"Endocrine, nutritional and metabolic diseases",20334.0,0.0958984951313072,c
+e1169,e,Type 2 diabetes mellitus with other specified complication,"Endocrine, nutritional and metabolic diseases",2672.0,0.0976796407185629,c
+e119,e,Type 2 diabetes mellitus without complications,"Endocrine, nutritional and metabolic diseases",25236.0,0.0517118402282454,c
+e139,e,Other specified diabetes mellitus without complications,"Endocrine, nutritional and metabolic diseases",40.0,0.125,c
+e230,e,Hypopituitarism,"Endocrine, nutritional and metabolic diseases",261.0,0.0842911877394636,c
+e232,e,Diabetes insipidus,"Endocrine, nutritional and metabolic diseases",260.0,0.207692307692308,c
+e43,e,Unspecified severe protein-calorie malnutrition,"Endocrine, nutritional and metabolic diseases",7548.0,0.17302596714361404,c
+e509,e,"Vitamin A deficiency, unspecified","Endocrine, nutritional and metabolic diseases",45.0,0.133333333333333,a
+e560,e,Deficiency of vitamin E,"Endocrine, nutritional and metabolic diseases",12.0,0.25,a
+e60,e,Dietary zinc deficiency,"Endocrine, nutritional and metabolic diseases",34.0,0.17647058823529396,a
+e6601,e,Morbid (severe) obesity due to excess calories,"Endocrine, nutritional and metabolic diseases",18004.0,0.0692623861364141,c
+e662,e,Morbid (severe) obesity with alveolar hypoventilation,"Endocrine, nutritional and metabolic diseases",1813.0,0.14561500275786,c
+e673,e,Hypervitaminosis D,"Endocrine, nutritional and metabolic diseases",15.0,0.0666666666666667,c
+e785,e,"Hyperlipidemia, unspecified","Endocrine, nutritional and metabolic diseases",77339.0,0.0621937185637259,c
+e8342,e,Hypomagnesemia,"Endocrine, nutritional and metabolic diseases",14781.0,0.118056965022664,c
+e8359,e,Other disorders of calcium metabolism,"Endocrine, nutritional and metabolic diseases",111.0,0.14414414414414403,c
+e840,e,Cystic fibrosis with pulmonary manifestations,"Endocrine, nutritional and metabolic diseases",96.0,0.229166666666667,c
+e848,e,Cystic fibrosis with other manifestations,"Endocrine, nutritional and metabolic diseases",78.0,0.179487179487179,c
+e854,e,Organ-limited amyloidosis,"Endocrine, nutritional and metabolic diseases",202.0,0.0643564356435644,c
+e860,e,Dehydration,"Endocrine, nutritional and metabolic diseases",27063.0,0.0410893101282193,a
+e871,e,Hypo-osmolality and hyponatremia,"Endocrine, nutritional and metabolic diseases",33888.0,0.11254721435316302,a
+e872,e,Acidosis,"Endocrine, nutritional and metabolic diseases",29443.0,0.12733077471725,a
+e875,e,Hyperkalemia,"Endocrine, nutritional and metabolic diseases",13477.0,0.11501075907101,a
+e876,e,Hypokalemia,"Endocrine, nutritional and metabolic diseases",38932.0,0.0914928593444981,a
+e890,e,Postprocedural hypothyroidism,"Endocrine, nutritional and metabolic diseases",2032.0,0.0511811023622047,c
+e891,e,Postprocedural hypoinsulinemia,"Endocrine, nutritional and metabolic diseases",30.0,0.2,c
+f0280,f,Dementia in other diseases classified elsewhere without behavioral disturbance,Mental and behavioural disorders,3475.0,0.0365467625899281,c
+f070,f,Personality change due to known physiological condition,Mental and behavioural disorders,32.0,0.0625,c
+f1120,f,"Opioid dependence, uncomplicated",Mental and behavioural disorders,6772.0,0.0574424099232132,c
+f1123,f,Opioid dependence with withdrawal,Mental and behavioural disorders,4251.0,0.0152905198776758,c
+f1210,f,"Cannabis abuse, uncomplicated",Mental and behavioural disorders,4386.0,0.0264477884176927,c
+f12229,f,"Cannabis dependence with intoxication, unspecified",Mental and behavioural disorders,34.0,0.0,c
+f1510,f,"Other stimulant abuse, uncomplicated",Mental and behavioural disorders,7217.0,0.0433698212553693,c
+f1520,f,"Other stimulant dependence, uncomplicated",Mental and behavioural disorders,3697.0,0.00513930213686773,c
+f15229,f,"Other stimulant dependence with intoxication, unspecified",Mental and behavioural disorders,74.0,0.0,c
+f17213,f,"Nicotine dependence, cigarettes, with withdrawal",Mental and behavioural disorders,391.0,0.0,c
+f3289,f,Other specified depressive episodes,Mental and behavioural disorders,704.0,0.00852272727272727,c
+f329,f,"Major depressive disorder, single episode, unspecified",Mental and behavioural disorders,33103.0,0.0460381234329215,c
+f332,f,"Major depressive disorder, recurrent severe without psychotic features",Mental and behavioural disorders,6225.0,0.0032128514056224897,c
+f3481,f,Disruptive mood dysregulation disorder,Mental and behavioural disorders,878.0,0.006833712984054671,c
+f419,f,"Anxiety disorder, unspecified",Mental and behavioural disorders,34708.0,0.0491529330413737,c
+f530,f,Postpartum depression,Mental and behavioural disorders,88.0,0.0,a
+f73,f,Profound intellectual disabilities,Mental and behavioural disorders,68.0,0.25,c
+f88,f,Other disorders of psychological development,Mental and behavioural disorders,628.0,0.138535031847134,c
+f902,f,"Attention-deficit hyperactivity disorder, combined type",Mental and behavioural disorders,424.0,0.0117924528301887,c
+g061,g,Intraspinal abscess and granuloma,Diseases of the nervous system,343.0,0.297376093294461,a
+g20,g,Parkinson's disease,Diseases of the nervous system,3388.0,0.0504722550177096,c
+g309,g,"Alzheimer's disease, unspecified",Diseases of the nervous system,2524.0,0.0316957210776545,c
+g4440,g,"Drug-induced headache, not elsewhere classified, not intractable",Diseases of the nervous system,45.0,0.111111111111111,a
+g4733,g,Obstructive sleep apnea (adult) (pediatric),Diseases of the nervous system,17393.0,0.0742827574311505,c
+g546,g,Phantom limb syndrome with pain,Diseases of the nervous system,234.0,0.102564102564103,c
+g800,g,Spastic quadriplegic cerebral palsy,Diseases of the nervous system,262.0,0.187022900763359,c
+g8191,g,"Hemiplegia, unspecified affecting right dominant side",Diseases of the nervous system,2013.0,0.142573273720815,c
+g8194,g,"Hemiplegia, unspecified affecting left nondominant side",Diseases of the nervous system,2204.0,0.11660617059891099,c
+g8220,g,"Paraplegia, unspecified",Diseases of the nervous system,1145.0,0.12751091703056802,c
+g8929,g,Other chronic pain,Diseases of the nervous system,22091.0,0.0494318953419945,c
+g893,g,Neoplasm related pain (acute) (chronic),Diseases of the nervous system,1893.0,0.0755414685684099,c
+g894,g,Chronic pain syndrome,Diseases of the nervous system,4786.0,0.053489343919765994,c
+g919,g,"Hydrocephalus, unspecified",Diseases of the nervous system,642.0,0.23364485981308397,c
+g931,g,"Anoxic brain damage, not elsewhere classified",Diseases of the nervous system,1357.0,0.314664701547531,c
+g9341,g,Metabolic encephalopathy,Diseases of the nervous system,14238.0,0.17067003792667496,c
+g935,g,Compression of brain,Diseases of the nervous system,1345.0,0.276579925650558,c
+g936,g,Cerebral edema,Diseases of the nervous system,2604.0,0.22273425499231897,c
+h02402,h,Unspecified ptosis of left eyelid,Diseases of the eye and ear,96.0,0.0729166666666667,a
+h35123,h,"Retinopathy of prematurity, stage 1, bilateral",Diseases of the eye and ear,41.0,0.9268292682926829,c
+h35133,h,"Retinopathy of prematurity, stage 2, bilateral",Diseases of the eye and ear,18.0,1.0,c
+h42,h,Glaucoma in diseases classified elsewhere,Diseases of the eye and ear,57.0,0.087719298245614,c
+h47611,h,"Cortical blindness, right side of brain",Diseases of the eye and ear,12.0,0.0833333333333333,c
+h47612,h,"Cortical blindness, left side of brain",Diseases of the eye and ear,11.0,0.0909090909090909,c
+h4902,h,"Third [oculomotor] nerve palsy, left eye",Diseases of the eye and ear,53.0,0.150943396226415,a
+i10,i,Essential (primary) hypertension,Diseases of the circulatory system,96804.0,0.0568881451179703,c
+i110,i,Hypertensive heart disease with heart failure,Diseases of the circulatory system,17829.0,0.0998373436535981,c
+i120,i,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,Diseases of the circulatory system,5767.0,0.0887809953181897,c
+i129,i,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",Diseases of the circulatory system,18262.0,0.0561274778228014,c
+i130,i,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",Diseases of the circulatory system,11560.0,0.11072664359861599,c
+i132,i,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",Diseases of the circulatory system,3672.0,0.139705882352941,c
+i21a9,i,Other myocardial infarction type,Diseases of the circulatory system,62.0,0.209677419354839,c
+i2510,i,Atherosclerotic heart disease of native coronary artery without angina pectoris,Diseases of the circulatory system,46927.0,0.0852813945063609,c
+i252,i,Old myocardial infarction,Diseases of the circulatory system,13407.0,0.0596703214738569,c
+i255,i,Ischemic cardiomyopathy,Diseases of the circulatory system,6455.0,0.14748257164988401,c
+i2690,i,Septic pulmonary embolism without acute cor pulmonale,Diseases of the circulatory system,178.0,0.286516853932584,a
+i2729,i,Other secondary pulmonary hypertension,Diseases of the circulatory system,821.0,0.115712545676005,c
+i2781,i,Cor pulmonale (chronic),Diseases of the circulatory system,594.0,0.114478114478114,c
+i330,i,Acute and subacute infective endocarditis,Diseases of the circulatory system,640.0,0.2953125,a
+i350,i,Nonrheumatic aortic (valve) stenosis,Diseases of the circulatory system,3980.0,0.17939698492462303,c
+i43,i,Cardiomyopathy in diseases classified elsewhere,Diseases of the circulatory system,274.0,0.0948905109489051,c
+i462,i,Cardiac arrest due to underlying cardiac condition,Diseases of the circulatory system,361.0,0.38781163434903004,c
+i469,i,"Cardiac arrest, cause unspecified",Diseases of the circulatory system,1995.0,0.23458646616541398,c
+i480,i,Paroxysmal atrial fibrillation,Diseases of the circulatory system,17896.0,0.114997764863657,c
+i4891,i,Unspecified atrial fibrillation,Diseases of the circulatory system,16715.0,0.0758600059826503,c
+i4901,i,Ventricular fibrillation,Diseases of the circulatory system,838.0,0.35083532219570396,c
+i495,i,Sick sinus syndrome,Diseases of the circulatory system,3045.0,0.116256157635468,c
+i5022,i,Chronic systolic (congestive) heart failure,Diseases of the circulatory system,5853.0,0.0972151033657953,c
+i5023,i,Acute on chronic systolic (congestive) heart failure,Diseases of the circulatory system,6771.0,0.127898390193472,b
+i5032,i,Chronic diastolic (congestive) heart failure,Diseases of the circulatory system,6075.0,0.0920164609053498,c
+i5084,i,End stage heart failure,Diseases of the circulatory system,303.0,0.21782178217821804,c
+i509,i,"Heart failure, unspecified",Diseases of the circulatory system,9430.0,0.0584305408271474,c
+i5189,i,Other ill-defined heart diseases,Diseases of the circulatory system,142.0,0.0492957746478873,c
+i6201,i,Nontraumatic acute subdural hemorrhage,Diseases of the circulatory system,162.0,0.24074074074074103,c
+i6203,i,Nontraumatic chronic subdural hemorrhage,Diseases of the circulatory system,250.0,0.10400000000000001,c
+i63513,i,Cerebral infarction due to unspecified occlusion or stenosis of bilateral middle cerebral arteries,Diseases of the circulatory system,22.0,0.22727272727272702,c
+i63533,i,Cerebral infarction due to unspecified occlusion or stenosis of bilateral posterior cerebral arteries,Diseases of the circulatory system,14.0,0.14285714285714302,c
+i639,i,"Cerebral infarction, unspecified",Diseases of the circulatory system,2927.0,0.0970276733857192,c
+i680,i,Cerebral amyloid angiopathy,Diseases of the circulatory system,123.0,0.032520325203252,c
+i69018,i,Other symptoms and signs involving cognitive functions following nontraumatic subarachnoid hemorrhage,Diseases of the circulatory system,10.0,0.0,c
+i69091,i,Dysphagia following nontraumatic subarachnoid hemorrhage,Diseases of the circulatory system,19.0,0.21052631578947398,c
+i69098,i,Other sequelae following nontraumatic subarachnoid hemorrhage,Diseases of the circulatory system,18.0,0.0555555555555556,c
+i69110,i,Attention and concentration deficit following nontraumatic intracerebral hemorrhage,Diseases of the circulatory system,16.0,0.0,c
+i69111,i,Memory deficit following nontraumatic intracerebral hemorrhage,Diseases of the circulatory system,30.0,0.0,c
+i69112,i,Visuospatial deficit and spatial neglect following nontraumatic intracerebral hemorrhage,Diseases of the circulatory system,30.0,0.0333333333333333,c
+i69114,i,Frontal lobe and executive function deficit following nontraumatic intracerebral hemorrhage,Diseases of the circulatory system,16.0,0.0,c
+i69118,i,Other symptoms and signs involving cognitive functions following nontraumatic intracerebral hemorrhage,Diseases of the circulatory system,47.0,0.0212765957446809,c
+i69119,i,Unspecified symptoms and signs involving cognitive functions following nontraumatic intracerebral hemorrhage,Diseases of the circulatory system,66.0,0.0303030303030303,c
+i69120,i,Aphasia following nontraumatic intracerebral hemorrhage,Diseases of the circulatory system,91.0,0.032967032967032996,c
+i69122,i,Dysarthria following nontraumatic intracerebral hemorrhage,Diseases of the circulatory system,75.0,0.0266666666666667,c
+i69151,i,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting right dominant side,Diseases of the circulatory system,93.0,0.0752688172043011,c
+i69154,i,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting left non-dominant side,Diseases of the circulatory system,108.0,0.009259259259259259,c
+i69191,i,Dysphagia following nontraumatic intracerebral hemorrhage,Diseases of the circulatory system,140.0,0.0642857142857143,c
+i69192,i,Facial weakness following nontraumatic intracerebral hemorrhage,Diseases of the circulatory system,59.0,0.0338983050847458,c
+i69198,i,Other sequelae of nontraumatic intracerebral hemorrhage,Diseases of the circulatory system,113.0,0.0353982300884956,c
+i69219,i,Unspecified symptoms and signs involving cognitive functions following other nontraumatic intracranial hemorrhage,Diseases of the circulatory system,20.0,0.1,c
+i69220,i,Aphasia following other nontraumatic intracranial hemorrhage,Diseases of the circulatory system,31.0,0.0967741935483871,c
+i69222,i,Dysarthria following other nontraumatic intracranial hemorrhage,Diseases of the circulatory system,16.0,0.0,c
+i69251,i,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting right dominant side,Diseases of the circulatory system,40.0,0.025,c
+i69291,i,Dysphagia following other nontraumatic intracranial hemorrhage,Diseases of the circulatory system,31.0,0.161290322580645,c
+i69298,i,Other sequelae of other nontraumatic intracranial hemorrhage,Diseases of the circulatory system,44.0,0.0681818181818182,c
+i69310,i,Attention and concentration deficit following cerebral infarction,Diseases of the circulatory system,73.0,0.0,c
+i69311,i,Memory deficit following cerebral infarction,Diseases of the circulatory system,285.0,0.0245614035087719,c
+i69312,i,Visuospatial deficit and spatial neglect following cerebral infarction,Diseases of the circulatory system,155.0,0.00645161290322581,c
+i69314,i,Frontal lobe and executive function deficit following cerebral infarction,Diseases of the circulatory system,70.0,0.0,c
+i69319,i,Unspecified symptoms and signs involving cognitive functions following cerebral infarction,Diseases of the circulatory system,518.0,0.0154440154440154,c
+i69320,i,Aphasia following cerebral infarction,Diseases of the circulatory system,1198.0,0.0383973288814691,c
+i69322,i,Dysarthria following cerebral infarction,Diseases of the circulatory system,840.0,0.0285714285714286,c
+i69351,i,Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side,Diseases of the circulatory system,2070.0,0.0565217391304348,c
+i69391,i,Dysphagia following cerebral infarction,Diseases of the circulatory system,1039.0,0.0548604427333975,c
+i69392,i,Facial weakness following cerebral infarction,Diseases of the circulatory system,600.0,0.02,c
+i69398,i,Other sequelae of cerebral infarction,Diseases of the circulatory system,1231.0,0.0373679935012185,c
+i69820,i,Aphasia following other cerebrovascular disease,Diseases of the circulatory system,10.0,0.1,c
+i69822,i,Dysarthria following other cerebrovascular disease,Diseases of the circulatory system,10.0,0.0,c
+i69851,i,Hemiplegia and hemiparesis following other cerebrovascular disease affecting right dominant side,Diseases of the circulatory system,19.0,0.0,c
+i69892,i,Facial weakness following other cerebrovascular disease,Diseases of the circulatory system,12.0,0.0,c
+i69922,i,Dysarthria following unspecified cerebrovascular disease,Diseases of the circulatory system,15.0,0.0,c
+i69991,i,Dysphagia following unspecified cerebrovascular disease,Diseases of the circulatory system,19.0,0.0,c
+i70233,i,Atherosclerosis of native arteries of right leg with ulceration of ankle,Diseases of the circulatory system,17.0,0.17647058823529396,c
+i70238,i,Atherosclerosis of native arteries of right leg with ulceration of other part of lower leg,Diseases of the circulatory system,22.0,0.136363636363636,c
+i70248,i,Atherosclerosis of native arteries of left leg with ulceration of other part of lower leg,Diseases of the circulatory system,24.0,0.208333333333333,c
+i76,i,Septic arterial embolism,Diseases of the circulatory system,191.0,0.387434554973822,a
+i788,i,Other diseases of capillaries,Diseases of the circulatory system,17.0,0.529411764705882,a
+i82411,i,Acute embolism and thrombosis of right femoral vein,Diseases of the circulatory system,599.0,0.18697829716193698,a
+i82412,i,Acute embolism and thrombosis of left femoral vein,Diseases of the circulatory system,699.0,0.163090128755365,a
+i82413,i,"Acute embolism and thrombosis of femoral vein, bilateral",Diseases of the circulatory system,169.0,0.195266272189349,a
+i82431,i,Acute embolism and thrombosis of right popliteal vein,Diseases of the circulatory system,513.0,0.13255360623781698,a
+i82432,i,Acute embolism and thrombosis of left popliteal vein,Diseases of the circulatory system,576.0,0.163194444444444,a
+i82433,i,"Acute embolism and thrombosis of popliteal vein, bilateral",Diseases of the circulatory system,114.0,0.10526315789473699,a
+i82441,i,Acute embolism and thrombosis of right tibial vein,Diseases of the circulatory system,258.0,0.158914728682171,a
+i82442,i,Acute embolism and thrombosis of left tibial vein,Diseases of the circulatory system,247.0,0.17004048582996,a
+i82443,i,"Acute embolism and thrombosis of tibial vein, bilateral",Diseases of the circulatory system,59.0,0.203389830508475,a
+i82451,i,Acute embolism and thrombosis of right peroneal vein,Diseases of the circulatory system,210.0,0.133333333333333,a
+i82452,i,Acute embolism and thrombosis of left peroneal vein,Diseases of the circulatory system,219.0,0.17351598173516,a
+i82453,i,"Acute embolism and thrombosis of peroneal vein, bilateral",Diseases of the circulatory system,65.0,0.261538461538462,a
+i82511,i,Chronic embolism and thrombosis of right femoral vein,Diseases of the circulatory system,102.0,0.137254901960784,c
+i82512,i,Chronic embolism and thrombosis of left femoral vein,Diseases of the circulatory system,122.0,0.163934426229508,c
+i82513,i,"Chronic embolism and thrombosis of femoral vein, bilateral",Diseases of the circulatory system,23.0,0.130434782608696,c
+i82531,i,Chronic embolism and thrombosis of right popliteal vein,Diseases of the circulatory system,59.0,0.169491525423729,c
+i82532,i,Chronic embolism and thrombosis of left popliteal vein,Diseases of the circulatory system,85.0,0.17647058823529396,c
+i82533,i,"Chronic embolism and thrombosis of popliteal vein, bilateral",Diseases of the circulatory system,14.0,0.0,c
+i82541,i,Chronic embolism and thrombosis of right tibial vein,Diseases of the circulatory system,12.0,0.25,c
+i82542,i,Chronic embolism and thrombosis of left tibial vein,Diseases of the circulatory system,13.0,0.384615384615385,c
+i82551,i,Chronic embolism and thrombosis of right peroneal vein,Diseases of the circulatory system,11.0,0.18181818181818202,c
+i82552,i,Chronic embolism and thrombosis of left peroneal vein,Diseases of the circulatory system,11.0,0.272727272727273,c
+i82a11,i,Acute embolism and thrombosis of right axillary vein,Diseases of the circulatory system,100.0,0.42,a
+i82a12,i,Acute embolism and thrombosis of left axillary vein,Diseases of the circulatory system,88.0,0.42045454545454497,a
+i82b11,i,Acute embolism and thrombosis of right subclavian vein,Diseases of the circulatory system,120.0,0.3666666666666671,a
+i82b12,i,Acute embolism and thrombosis of left subclavian vein,Diseases of the circulatory system,149.0,0.322147651006711,a
+i83009,i,Varicose veins of unspecified lower extremity with ulcer of unspecified site,Diseases of the circulatory system,62.0,0.0645161290322581,a
+i83013,i,Varicose veins of right lower extremity with ulcer of ankle,Diseases of the circulatory system,11.0,0.0,a
+i83018,i,Varicose veins of right lower extremity with ulcer other part of lower leg,Diseases of the circulatory system,62.0,0.0483870967741935,a
+i83019,i,Varicose veins of right lower extremity with ulcer of unspecified site,Diseases of the circulatory system,37.0,0.0,a
+i83023,i,Varicose veins of left lower extremity with ulcer of ankle,Diseases of the circulatory system,13.0,0.0,a
+i83028,i,Varicose veins of left lower extremity with ulcer other part of lower leg,Diseases of the circulatory system,67.0,0.0597014925373134,a
+i83029,i,Varicose veins of left lower extremity with ulcer of unspecified site,Diseases of the circulatory system,38.0,0.0263157894736842,a
+i8311,i,Varicose veins of right lower extremity with inflammation,Diseases of the circulatory system,25.0,0.0,a
+i8312,i,Varicose veins of left lower extremity with inflammation,Diseases of the circulatory system,29.0,0.0,a
+i83218,i,Varicose veins of right lower extremity with both ulcer of other part of lower extremity and inflammation,Diseases of the circulatory system,29.0,0.0344827586206897,a
+i83228,i,Varicose veins of left lower extremity with both ulcer of other part of lower extremity and inflammation,Diseases of the circulatory system,33.0,0.0303030303030303,a
+i8510,i,Secondary esophageal varices without bleeding,Diseases of the circulatory system,1029.0,0.115646258503401,c
+i8511,i,Secondary esophageal varices with bleeding,Diseases of the circulatory system,505.0,0.10495049504950502,c
+i96,i,"Gangrene, not elsewhere classified",Diseases of the circulatory system,1069.0,0.176800748362956,a
+i97130,i,Postprocedural heart failure following cardiac surgery,Diseases of the circulatory system,13.0,0.46153846153846206,c
+j1289,j,Other viral pneumonia,Diseases of the respiratory system,6736.0,0.123366983372922,a
+j189,j,"Pneumonia, unspecified organism",Diseases of the respiratory system,20429.0,0.0826765872044642,a
+j218,j,Acute bronchiolitis due to other specified organisms,Diseases of the respiratory system,364.0,0.0549450549450549,a
+j440,j,Chronic obstructive pulmonary disease with (acute) lower respiratory infection,Diseases of the respiratory system,8940.0,0.0935123042505593,b
+j441,j,Chronic obstructive pulmonary disease with (acute) exacerbation,Diseases of the respiratory system,11824.0,0.069096752368065,b
+j470,j,Bronchiectasis with acute lower respiratory infection,Diseases of the respiratory system,542.0,0.11439114391143901,c
+j471,j,Bronchiectasis with (acute) exacerbation,Diseases of the respiratory system,164.0,0.0609756097560976,b
+j705,j,Respiratory conditions due to smoke inhalation,Diseases of the respiratory system,35.0,0.22857142857142898,a
+j850,j,Gangrene and necrosis of lung,Diseases of the respiratory system,144.0,0.319444444444444,a
+j851,j,Abscess of lung with pneumonia,Diseases of the respiratory system,144.0,0.36111111111111105,a
+j853,j,Abscess of mediastinum,Diseases of the respiratory system,33.0,0.393939393939394,a
+j954,j,Chemical pneumonitis due to anesthesia,Diseases of the respiratory system,12.0,0.166666666666667,a
+j9601,j,Acute respiratory failure with hypoxia,Diseases of the respiratory system,33592.0,0.15831150273874697,a
+j9611,j,Chronic respiratory failure with hypoxia,Diseases of the respiratory system,3096.0,0.0497416020671835,c
+j9621,j,Acute and chronic respiratory failure with hypoxia,Diseases of the respiratory system,10443.0,0.12505984870248,b
+j9622,j,Acute and chronic respiratory failure with hypercapnia,Diseases of the respiratory system,3012.0,0.18426294820717104,b
+j9851,j,Mediastinitis,Diseases of the respiratory system,71.0,0.436619718309859,a
+k029,k,"Dental caries, unspecified",Diseases of the digestive system,576.0,0.0763888888888889,a
+k047,k,Periapical abscess without sinus,Diseases of the digestive system,690.0,0.0391304347826087,a
+k122,k,Cellulitis and abscess of mouth,Diseases of the digestive system,213.0,0.0657276995305164,a
+k219,k,Gastro-esophageal reflux disease without esophagitis,Diseases of the digestive system,45832.0,0.0508814801885146,c
+k223,k,Perforation of esophagus,Diseases of the digestive system,95.0,0.34736842105263205,a
+k311,k,Adult hypertrophic pyloric stenosis,Diseases of the digestive system,341.0,0.205278592375367,a
+k315,k,Obstruction of duodenum,Diseases of the digestive system,208.0,0.18269230769230801,c
+k3184,k,Gastroparesis,Diseases of the digestive system,2393.0,0.0685332218972002,a
+k3189,k,Other diseases of stomach and duodenum,Diseases of the digestive system,1563.0,0.0614203454894434,a
+k50013,k,Crohn's disease of small intestine with fistula,Diseases of the digestive system,12.0,0.166666666666667,c
+k50014,k,Crohn's disease of small intestine with abscess,Diseases of the digestive system,13.0,0.153846153846154,c
+k50113,k,Crohn's disease of large intestine with fistula,Diseases of the digestive system,19.0,0.0,c
+k50114,k,Crohn's disease of large intestine with abscess,Diseases of the digestive system,18.0,0.111111111111111,c
+k50913,k,"Crohn's disease, unspecified, with fistula",Diseases of the digestive system,26.0,0.153846153846154,c
+k50914,k,"Crohn's disease, unspecified, with abscess",Diseases of the digestive system,13.0,0.153846153846154,c
+k521,k,Toxic gastroenteritis and colitis,Diseases of the digestive system,611.0,0.14402618657937802,a
+k5901,k,Slow transit constipation,Diseases of the digestive system,204.0,0.127450980392157,a
+k5903,k,Drug induced constipation,Diseases of the digestive system,1438.0,0.126564673157163,a
+k592,k,"Neurogenic bowel, not elsewhere classified",Diseases of the digestive system,455.0,0.19560439560439602,c
+k644,k,Residual hemorrhoidal skin tags,Diseases of the digestive system,653.0,0.0428790199081164,a
+k648,k,Other hemorrhoids,Diseases of the digestive system,1310.0,0.0427480916030534,a
+k6812,k,Psoas muscle abscess,Diseases of the digestive system,230.0,0.23478260869565196,a
+k7031,k,Alcoholic cirrhosis of liver with ascites,Diseases of the digestive system,1873.0,0.136145221569674,c
+k7290,k,"Hepatic failure, unspecified without coma",Diseases of the digestive system,2269.0,0.135301895107977,a
+k745,k,"Biliary cirrhosis, unspecified",Diseases of the digestive system,21.0,0.23809523809523803,c
+k7460,k,Unspecified cirrhosis of liver,Diseases of the digestive system,4435.0,0.0746335963923337,c
+k766,k,Portal hypertension,Diseases of the digestive system,3544.0,0.11145598194130901,c
+k767,k,Hepatorenal syndrome,Diseases of the digestive system,682.0,0.23607038123167198,c
+k831,k,Obstruction of bile duct,Diseases of the digestive system,1441.0,0.0707841776544067,c
+l0201,l,Cutaneous abscess of face,Diseases of the skin and subcutaneous tissue,234.0,0.0341880341880342,a
+l0211,l,Cutaneous abscess of neck,Diseases of the skin and subcutaneous tissue,273.0,0.0622710622710623,a
+l02211,l,Cutaneous abscess of abdominal wall,Diseases of the skin and subcutaneous tissue,590.0,0.103389830508475,a
+l02212,l,"Cutaneous abscess of back [any part, except buttock]",Diseases of the skin and subcutaneous tissue,158.0,0.11392405063291099,a
+l02214,l,Cutaneous abscess of groin,Diseases of the skin and subcutaneous tissue,259.0,0.0849420849420849,a
+l02215,l,Cutaneous abscess of perineum,Diseases of the skin and subcutaneous tissue,147.0,0.0748299319727891,a
+l0231,l,Cutaneous abscess of buttock,Diseases of the skin and subcutaneous tissue,465.0,0.0731182795698925,a
+l02411,l,Cutaneous abscess of right axilla,Diseases of the skin and subcutaneous tissue,46.0,0.0869565217391304,a
+l02412,l,Cutaneous abscess of left axilla,Diseases of the skin and subcutaneous tissue,46.0,0.0217391304347826,a
+l02414,l,Cutaneous abscess of left upper limb,Diseases of the skin and subcutaneous tissue,415.0,0.0554216867469879,a
+l02511,l,Cutaneous abscess of right hand,Diseases of the skin and subcutaneous tissue,345.0,0.0260869565217391,a
+l02512,l,Cutaneous abscess of left hand,Diseases of the skin and subcutaneous tissue,227.0,0.026431718061674,a
+l02811,l,"Cutaneous abscess of head [any part, except face]",Diseases of the skin and subcutaneous tissue,69.0,0.0869565217391304,a
+l03011,l,Cellulitis of right finger,Diseases of the skin and subcutaneous tissue,282.0,0.0106382978723404,a
+l03012,l,Cellulitis of left finger,Diseases of the skin and subcutaneous tissue,227.0,0.026431718061674,a
+l03111,l,Cellulitis of right axilla,Diseases of the skin and subcutaneous tissue,30.0,0.133333333333333,a
+l03112,l,Cellulitis of left axilla,Diseases of the skin and subcutaneous tissue,31.0,0.0645161290322581,a
+l03114,l,Cellulitis of left upper limb,Diseases of the skin and subcutaneous tissue,1108.0,0.046028880866425995,a
+l03115,l,Cellulitis of right lower limb,Diseases of the skin and subcutaneous tissue,5833.0,0.0697754157380422,a
+l03116,l,Cellulitis of left lower limb,Diseases of the skin and subcutaneous tissue,5778.0,0.0643821391484943,a
+l03211,l,Cellulitis of face,Diseases of the skin and subcutaneous tissue,664.0,0.0286144578313253,a
+l03221,l,Cellulitis of neck,Diseases of the skin and subcutaneous tissue,234.0,0.094017094017094,a
+l03311,l,Cellulitis of abdominal wall,Diseases of the skin and subcutaneous tissue,866.0,0.12355658198614301,a
+l03312,l,Cellulitis of back [any part except buttock],Diseases of the skin and subcutaneous tissue,139.0,0.0863309352517986,a
+l03314,l,Cellulitis of groin,Diseases of the skin and subcutaneous tissue,202.0,0.0544554455445545,a
+l03315,l,Cellulitis of perineum,Diseases of the skin and subcutaneous tissue,92.0,0.0869565217391304,a
+l03317,l,Cellulitis of buttock,Diseases of the skin and subcutaneous tissue,346.0,0.0635838150289017,a
+l03811,l,"Cellulitis of head [any part, except face]",Diseases of the skin and subcutaneous tissue,56.0,0.0535714285714286,a
+l89154,l,"Pressure ulcer of sacral region, stage 4",Diseases of the skin and subcutaneous tissue,666.0,0.19519519519519501,c
+l89210,l,"Pressure ulcer of right hip, unstageable",Diseases of the skin and subcutaneous tissue,23.0,0.0,c
+l89214,l,"Pressure ulcer of right hip, stage 4",Diseases of the skin and subcutaneous tissue,63.0,0.253968253968254,c
+l89216,l,Pressure-induced deep tissue damage of right hip,Diseases of the skin and subcutaneous tissue,16.0,0.4375,c
+l89220,l,"Pressure ulcer of left hip, unstageable",Diseases of the skin and subcutaneous tissue,26.0,0.0,c
+l89224,l,"Pressure ulcer of left hip, stage 4",Diseases of the skin and subcutaneous tissue,64.0,0.140625,c
+l89226,l,Pressure-induced deep tissue damage of left hip,Diseases of the skin and subcutaneous tissue,18.0,0.5,c
+l89310,l,"Pressure ulcer of right buttock, unstageable",Diseases of the skin and subcutaneous tissue,84.0,0.130952380952381,c
+l89311,l,"Pressure ulcer of right buttock, stage 1",Diseases of the skin and subcutaneous tissue,66.0,0.0454545454545455,c
+l89312,l,"Pressure ulcer of right buttock, stage 2",Diseases of the skin and subcutaneous tissue,236.0,0.152542372881356,c
+l89313,l,"Pressure ulcer of right buttock, stage 3",Diseases of the skin and subcutaneous tissue,188.0,0.175531914893617,c
+l89314,l,"Pressure ulcer of right buttock, stage 4",Diseases of the skin and subcutaneous tissue,132.0,0.128787878787879,c
+l89316,l,Pressure-induced deep tissue damage of right buttock,Diseases of the skin and subcutaneous tissue,85.0,0.317647058823529,c
+l89319,l,"Pressure ulcer of right buttock, unspecified stage",Diseases of the skin and subcutaneous tissue,98.0,0.0816326530612245,c
+l89320,l,"Pressure ulcer of left buttock, unstageable",Diseases of the skin and subcutaneous tissue,74.0,0.162162162162162,c
+l89321,l,"Pressure ulcer of left buttock, stage 1",Diseases of the skin and subcutaneous tissue,67.0,0.0149253731343284,c
+l89322,l,"Pressure ulcer of left buttock, stage 2",Diseases of the skin and subcutaneous tissue,265.0,0.139622641509434,c
+l89323,l,"Pressure ulcer of left buttock, stage 3",Diseases of the skin and subcutaneous tissue,185.0,0.15135135135135097,c
+l89324,l,"Pressure ulcer of left buttock, stage 4",Diseases of the skin and subcutaneous tissue,118.0,0.11864406779660999,c
+l89326,l,Pressure-induced deep tissue damage of left buttock,Diseases of the skin and subcutaneous tissue,87.0,0.252873563218391,c
+l89329,l,"Pressure ulcer of left buttock, unspecified stage",Diseases of the skin and subcutaneous tissue,99.0,0.0707070707070707,c
+l89510,l,"Pressure ulcer of right ankle, unstageable",Diseases of the skin and subcutaneous tissue,22.0,0.0454545454545455,c
+l89512,l,"Pressure ulcer of right ankle, stage 2",Diseases of the skin and subcutaneous tissue,12.0,0.0833333333333333,c
+l89516,l,Pressure-induced deep tissue damage of right ankle,Diseases of the skin and subcutaneous tissue,13.0,0.307692307692308,c
+l89519,l,"Pressure ulcer of right ankle, unspecified stage",Diseases of the skin and subcutaneous tissue,22.0,0.0909090909090909,c
+l89520,l,"Pressure ulcer of left ankle, unstageable",Diseases of the skin and subcutaneous tissue,20.0,0.05,c
+l89522,l,"Pressure ulcer of left ankle, stage 2",Diseases of the skin and subcutaneous tissue,14.0,0.14285714285714302,c
+l89526,l,Pressure-induced deep tissue damage of left ankle,Diseases of the skin and subcutaneous tissue,11.0,0.545454545454545,c
+l89529,l,"Pressure ulcer of left ankle, unspecified stage",Diseases of the skin and subcutaneous tissue,19.0,0.0526315789473684,c
+l89610,l,"Pressure ulcer of right heel, unstageable",Diseases of the skin and subcutaneous tissue,147.0,0.108843537414966,c
+l89611,l,"Pressure ulcer of right heel, stage 1",Diseases of the skin and subcutaneous tissue,68.0,0.220588235294118,c
+l89613,l,"Pressure ulcer of right heel, stage 3",Diseases of the skin and subcutaneous tissue,71.0,0.126760563380282,c
+l89614,l,"Pressure ulcer of right heel, stage 4",Diseases of the skin and subcutaneous tissue,30.0,0.3,c
+l89616,l,Pressure-induced deep tissue damage of right heel,Diseases of the skin and subcutaneous tissue,139.0,0.388489208633094,c
+l89619,l,"Pressure ulcer of right heel, unspecified stage",Diseases of the skin and subcutaneous tissue,120.0,0.133333333333333,c
+l89620,l,"Pressure ulcer of left heel, unstageable",Diseases of the skin and subcutaneous tissue,158.0,0.0569620253164557,c
+l89621,l,"Pressure ulcer of left heel, stage 1",Diseases of the skin and subcutaneous tissue,76.0,0.223684210526316,c
+l89623,l,"Pressure ulcer of left heel, stage 3",Diseases of the skin and subcutaneous tissue,71.0,0.140845070422535,c
+l89624,l,"Pressure ulcer of left heel, stage 4",Diseases of the skin and subcutaneous tissue,28.0,0.107142857142857,c
+l89626,l,Pressure-induced deep tissue damage of left heel,Diseases of the skin and subcutaneous tissue,143.0,0.35664335664335706,c
+l89629,l,"Pressure ulcer of left heel, unspecified stage",Diseases of the skin and subcutaneous tissue,117.0,0.179487179487179,c
+l910,l,Hypertrophic scar,Diseases of the skin and subcutaneous tissue,89.0,0.0561797752808989,a
+l97211,l,Non-pressure chronic ulcer of right calf limited to breakdown of skin,Diseases of the skin and subcutaneous tissue,26.0,0.115384615384615,c
+l97212,l,Non-pressure chronic ulcer of right calf with fat layer exposed,Diseases of the skin and subcutaneous tissue,16.0,0.0625,c
+l97218,l,Non-pressure chronic ulcer of right calf with other specified severity,Diseases of the skin and subcutaneous tissue,11.0,0.0,c
+l97219,l,Non-pressure chronic ulcer of right calf with unspecified severity,Diseases of the skin and subcutaneous tissue,78.0,0.102564102564103,c
+l97221,l,Non-pressure chronic ulcer of left calf limited to breakdown of skin,Diseases of the skin and subcutaneous tissue,21.0,0.14285714285714302,c
+l97222,l,Non-pressure chronic ulcer of left calf with fat layer exposed,Diseases of the skin and subcutaneous tissue,25.0,0.08,c
+l97228,l,Non-pressure chronic ulcer of left calf with other specified severity,Diseases of the skin and subcutaneous tissue,11.0,0.0,c
+l97229,l,Non-pressure chronic ulcer of left calf with unspecified severity,Diseases of the skin and subcutaneous tissue,80.0,0.15,c
+l97311,l,Non-pressure chronic ulcer of right ankle limited to breakdown of skin,Diseases of the skin and subcutaneous tissue,20.0,0.15,c
+l97318,l,Non-pressure chronic ulcer of right ankle with other specified severity,Diseases of the skin and subcutaneous tissue,14.0,0.14285714285714302,c
+l97328,l,Non-pressure chronic ulcer of left ankle with other specified severity,Diseases of the skin and subcutaneous tissue,13.0,0.153846153846154,c
+l97419,l,Non-pressure chronic ulcer of right heel and midfoot with unspecified severity,Diseases of the skin and subcutaneous tissue,341.0,0.12023460410557199,c
+l97429,l,Non-pressure chronic ulcer of left heel and midfoot with unspecified severity,Diseases of the skin and subcutaneous tissue,326.0,0.0950920245398773,c
+l97519,l,Non-pressure chronic ulcer of other part of right foot with unspecified severity,Diseases of the skin and subcutaneous tissue,1569.0,0.0694710006373486,c
+l97529,l,Non-pressure chronic ulcer of other part of left foot with unspecified severity,Diseases of the skin and subcutaneous tissue,1465.0,0.0723549488054608,c
+l97811,l,Non-pressure chronic ulcer of other part of right lower leg limited to breakdown of skin,Diseases of the skin and subcutaneous tissue,37.0,0.0540540540540541,c
+l97812,l,Non-pressure chronic ulcer of other part of right lower leg with fat layer exposed,Diseases of the skin and subcutaneous tissue,22.0,0.0909090909090909,c
+l97818,l,Non-pressure chronic ulcer of other part of right lower leg with other specified severity,Diseases of the skin and subcutaneous tissue,34.0,0.0882352941176471,c
+l97819,l,Non-pressure chronic ulcer of other part of right lower leg with unspecified severity,Diseases of the skin and subcutaneous tissue,223.0,0.0896860986547085,c
+l97821,l,Non-pressure chronic ulcer of other part of left lower leg limited to breakdown of skin,Diseases of the skin and subcutaneous tissue,39.0,0.0512820512820513,c
+l97822,l,Non-pressure chronic ulcer of other part of left lower leg with fat layer exposed,Diseases of the skin and subcutaneous tissue,21.0,0.0,c
+l97828,l,Non-pressure chronic ulcer of other part of left lower leg with other specified severity,Diseases of the skin and subcutaneous tissue,34.0,0.0882352941176471,c
+l97829,l,Non-pressure chronic ulcer of other part of left lower leg with unspecified severity,Diseases of the skin and subcutaneous tissue,193.0,0.129533678756477,c
+l97909,l,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with unspecified severity,Diseases of the skin and subcutaneous tissue,107.0,0.0654205607476635,c
+l97911,l,Non-pressure chronic ulcer of unspecified part of right lower leg limited to breakdown of skin,Diseases of the skin and subcutaneous tissue,41.0,0.0731707317073171,c
+l97919,l,Non-pressure chronic ulcer of unspecified part of right lower leg with unspecified severity,Diseases of the skin and subcutaneous tissue,462.0,0.0606060606060606,c
+l97921,l,Non-pressure chronic ulcer of unspecified part of left lower leg limited to breakdown of skin,Diseases of the skin and subcutaneous tissue,42.0,0.11904761904761901,c
+l97929,l,Non-pressure chronic ulcer of unspecified part of left lower leg with unspecified severity,Diseases of the skin and subcutaneous tissue,487.0,0.0657084188911704,c
+m00071,m,"Staphylococcal arthritis, right ankle and foot",Diseases of the musculoskeletal system and connective tissue,22.0,0.0454545454545455,a
+m00871,m,"Arthritis due to other bacteria, right ankle and foot",Diseases of the musculoskeletal system and connective tissue,25.0,0.16,a
+m06841,m,"Other specified rheumatoid arthritis, right hand",Diseases of the musculoskeletal system and connective tissue,15.0,0.0,c
+m06842,m,"Other specified rheumatoid arthritis, left hand",Diseases of the musculoskeletal system and connective tissue,14.0,0.0,c
+m10061,m,"Idiopathic gout, right knee",Diseases of the musculoskeletal system and connective tissue,17.0,0.0588235294117647,c
+m10062,m,"Idiopathic gout, left knee",Diseases of the musculoskeletal system and connective tissue,21.0,0.0476190476190476,c
+m10071,m,"Idiopathic gout, right ankle and foot",Diseases of the musculoskeletal system and connective tissue,27.0,0.0740740740740741,c
+m10072,m,"Idiopathic gout, left ankle and foot",Diseases of the musculoskeletal system and connective tissue,27.0,0.0,c
+m13841,m,"Other specified arthritis, right hand",Diseases of the musculoskeletal system and connective tissue,11.0,0.0,c
+m13842,m,"Other specified arthritis, left hand",Diseases of the musculoskeletal system and connective tissue,10.0,0.0,c
+m14671,m,"Charcot's joint, right ankle and foot",Diseases of the musculoskeletal system and connective tissue,31.0,0.0,c
+m14672,m,"Charcot's joint, left ankle and foot",Diseases of the musculoskeletal system and connective tissue,29.0,0.0,c
+m19031,m,"Primary osteoarthritis, right wrist",Diseases of the musculoskeletal system and connective tissue,37.0,0.0540540540540541,c
+m19032,m,"Primary osteoarthritis, left wrist",Diseases of the musculoskeletal system and connective tissue,41.0,0.12195121951219501,c
+m19041,m,"Primary osteoarthritis, right hand",Diseases of the musculoskeletal system and connective tissue,223.0,0.0269058295964126,c
+m19042,m,"Primary osteoarthritis, left hand",Diseases of the musculoskeletal system and connective tissue,218.0,0.018348623853211003,c
+m19071,m,"Primary osteoarthritis, right ankle and foot",Diseases of the musculoskeletal system and connective tissue,180.0,0.0555555555555556,c
+m19072,m,"Primary osteoarthritis, left ankle and foot",Diseases of the musculoskeletal system and connective tissue,142.0,0.0140845070422535,c
+m19171,m,"Post-traumatic osteoarthritis, right ankle and foot",Diseases of the musculoskeletal system and connective tissue,24.0,0.0416666666666667,c
+m2011,m,"Hallux valgus (acquired), right foot",Diseases of the musculoskeletal system and connective tissue,15.0,0.0666666666666667,c
+m2012,m,"Hallux valgus (acquired), left foot",Diseases of the musculoskeletal system and connective tissue,21.0,0.0,c
+m2041,m,"Other hammer toe(s) (acquired), right foot",Diseases of the musculoskeletal system and connective tissue,61.0,0.0163934426229508,c
+m2042,m,"Other hammer toe(s) (acquired), left foot",Diseases of the musculoskeletal system and connective tissue,46.0,0.0217391304347826,c
+m21161,m,"Varus deformity, not elsewhere classified, right knee",Diseases of the musculoskeletal system and connective tissue,71.0,0.028169014084507005,a
+m21162,m,"Varus deformity, not elsewhere classified, left knee",Diseases of the musculoskeletal system and connective tissue,86.0,0.0,a
+m21371,m,"Foot drop, right foot",Diseases of the musculoskeletal system and connective tissue,530.0,0.0811320754716981,a
+m21372,m,"Foot drop, left foot",Diseases of the musculoskeletal system and connective tissue,546.0,0.0915750915750916,a
+m2141,m,"Flat foot [pes planus] (acquired), right foot",Diseases of the musculoskeletal system and connective tissue,17.0,0.0,a
+m2142,m,"Flat foot [pes planus] (acquired), left foot",Diseases of the musculoskeletal system and connective tissue,15.0,0.0,a
+m21861,m,Other specified acquired deformities of right lower leg,Diseases of the musculoskeletal system and connective tissue,19.0,0.21052631578947398,a
+m21862,m,Other specified acquired deformities of left lower leg,Diseases of the musculoskeletal system and connective tissue,11.0,0.0909090909090909,a
+m21961,m,Unspecified acquired deformity of right lower leg,Diseases of the musculoskeletal system and connective tissue,21.0,0.0952380952380952,a
+m21962,m,Unspecified acquired deformity of left lower leg,Diseases of the musculoskeletal system and connective tissue,26.0,0.0769230769230769,a
+m24451,m,"Recurrent dislocation, right hip",Diseases of the musculoskeletal system and connective tissue,18.0,0.0555555555555556,a
+m24452,m,"Recurrent dislocation, left hip",Diseases of the musculoskeletal system and connective tissue,16.0,0.0,a
+m24541,m,"Contracture, right hand",Diseases of the musculoskeletal system and connective tissue,33.0,0.0909090909090909,c
+m24542,m,"Contracture, left hand",Diseases of the musculoskeletal system and connective tissue,35.0,0.0285714285714286,c
+m24551,m,"Contracture, right hip",Diseases of the musculoskeletal system and connective tissue,21.0,0.0476190476190476,c
+m24552,m,"Contracture, left hip",Diseases of the musculoskeletal system and connective tissue,16.0,0.1875,c
+m24561,m,"Contracture, right knee",Diseases of the musculoskeletal system and connective tissue,84.0,0.0952380952380952,c
+m24562,m,"Contracture, left knee",Diseases of the musculoskeletal system and connective tissue,69.0,0.072463768115942,c
+m24571,m,"Contracture, right ankle",Diseases of the musculoskeletal system and connective tissue,22.0,0.0909090909090909,c
+m24572,m,"Contracture, left ankle",Diseases of the musculoskeletal system and connective tissue,26.0,0.115384615384615,c
+m24574,m,"Contracture, right foot",Diseases of the musculoskeletal system and connective tissue,11.0,0.0,c
+m24575,m,"Contracture, left foot",Diseases of the musculoskeletal system and connective tissue,14.0,0.0,c
+m24611,m,"Ankylosis, right shoulder",Diseases of the musculoskeletal system and connective tissue,15.0,0.0,c
+m25541,m,Pain in joints of right hand,Diseases of the musculoskeletal system and connective tissue,19.0,0.10526315789473699,a
+m25542,m,Pain in joints of left hand,Diseases of the musculoskeletal system and connective tissue,14.0,0.14285714285714302,a
+m25561,m,Pain in right knee,Diseases of the musculoskeletal system and connective tissue,871.0,0.0195177956371986,a
+m25562,m,Pain in left knee,Diseases of the musculoskeletal system and connective tissue,781.0,0.0204865556978233,a
+m2602,m,Maxillary hypoplasia,Diseases of the musculoskeletal system and connective tissue,28.0,0.14285714285714302,a
+m2603,m,Mandibular hyperplasia,Diseases of the musculoskeletal system and connective tissue,10.0,0.0,a
+m2604,m,Mandibular hypoplasia,Diseases of the musculoskeletal system and connective tissue,12.0,0.0,a
+m264,m,"Malocclusion, unspecified",Diseases of the musculoskeletal system and connective tissue,48.0,0.0416666666666667,a
+m272,m,Inflammatory conditions of jaws,Diseases of the musculoskeletal system and connective tissue,170.0,0.0823529411764706,a
+m3481,m,Systemic sclerosis with lung involvement,Diseases of the musculoskeletal system and connective tissue,18.0,0.0555555555555556,c
+m3489,m,Other systemic sclerosis,Diseases of the musculoskeletal system and connective tissue,11.0,0.0909090909090909,c
+m4316,m,"Spondylolisthesis, lumbar region",Diseases of the musculoskeletal system and connective tissue,1472.0,0.28736413043478304,a
+m4317,m,"Spondylolisthesis, lumbosacral region",Diseases of the musculoskeletal system and connective tissue,362.0,0.30110497237569106,a
+m4622,m,"Osteomyelitis of vertebra, cervical region",Diseases of the musculoskeletal system and connective tissue,62.0,0.387096774193548,c
+m4624,m,"Osteomyelitis of vertebra, thoracic region",Diseases of the musculoskeletal system and connective tissue,155.0,0.24516129032258102,c
+m4625,m,"Osteomyelitis of vertebra, thoracolumbar region",Diseases of the musculoskeletal system and connective tissue,18.0,0.444444444444444,c
+m4626,m,"Osteomyelitis of vertebra, lumbar region",Diseases of the musculoskeletal system and connective tissue,280.0,0.239285714285714,c
+m4627,m,"Osteomyelitis of vertebra, lumbosacral region",Diseases of the musculoskeletal system and connective tissue,56.0,0.267857142857143,c
+m4628,m,"Osteomyelitis of vertebra, sacral and sacrococcygeal region",Diseases of the musculoskeletal system and connective tissue,209.0,0.19138755980861197,c
+m4642,m,"Discitis, unspecified, cervical region",Diseases of the musculoskeletal system and connective tissue,37.0,0.351351351351351,c
+m4644,m,"Discitis, unspecified, thoracic region",Diseases of the musculoskeletal system and connective tissue,86.0,0.24418604651162804,c
+m4645,m,"Discitis, unspecified, thoracolumbar region",Diseases of the musculoskeletal system and connective tissue,10.0,0.1,c
+m4646,m,"Discitis, unspecified, lumbar region",Diseases of the musculoskeletal system and connective tissue,183.0,0.17486338797814202,c
+m4647,m,"Discitis, unspecified, lumbosacral region",Diseases of the musculoskeletal system and connective tissue,40.0,0.1,c
+m4712,m,"Other spondylosis with myelopathy, cervical region",Diseases of the musculoskeletal system and connective tissue,488.0,0.159836065573771,c
+m4722,m,"Other spondylosis with radiculopathy, cervical region",Diseases of the musculoskeletal system and connective tissue,262.0,0.0954198473282443,c
+m4724,m,"Other spondylosis with radiculopathy, thoracic region",Diseases of the musculoskeletal system and connective tissue,11.0,0.45454545454545503,c
+m4726,m,"Other spondylosis with radiculopathy, lumbar region",Diseases of the musculoskeletal system and connective tissue,702.0,0.25213675213675196,c
+m4727,m,"Other spondylosis with radiculopathy, lumbosacral region",Diseases of the musculoskeletal system and connective tissue,128.0,0.2734375,c
+m48061,m,"Spinal stenosis, lumbar region without neurogenic claudication",Diseases of the musculoskeletal system and connective tissue,3102.0,0.169245647969052,a
+m48062,m,"Spinal stenosis, lumbar region with neurogenic claudication",Diseases of the musculoskeletal system and connective tissue,1210.0,0.264462809917355,a
+m4807,m,"Spinal stenosis, lumbosacral region",Diseases of the musculoskeletal system and connective tissue,631.0,0.23296354992076101,a
+m5001,m,"Cervical disc disorder with myelopathy, high cervical region",Diseases of the musculoskeletal system and connective tissue,136.0,0.169117647058824,c
+m50021,m,Cervical disc disorder at C4-C5 level with myelopathy,Diseases of the musculoskeletal system and connective tissue,93.0,0.0752688172043011,c
+m50022,m,Cervical disc disorder at C5-C6 level with myelopathy,Diseases of the musculoskeletal system and connective tissue,78.0,0.102564102564103,c
+m50023,m,Cervical disc disorder at C6-C7 level with myelopathy,Diseases of the musculoskeletal system and connective tissue,49.0,0.163265306122449,c
+m5011,m,"Cervical disc disorder with radiculopathy, high cervical region",Diseases of the musculoskeletal system and connective tissue,60.0,0.15,a
+m50121,m,Cervical disc disorder at C4-C5 level with radiculopathy,Diseases of the musculoskeletal system and connective tissue,61.0,0.0655737704918033,a
+m50122,m,Cervical disc disorder at C5-C6 level with radiculopathy,Diseases of the musculoskeletal system and connective tissue,78.0,0.0512820512820513,a
+m50123,m,Cervical disc disorder at C6-C7 level with radiculopathy,Diseases of the musculoskeletal system and connective tissue,43.0,0.116279069767442,a
+m5114,m,"Intervertebral disc disorders with radiculopathy, thoracic region",Diseases of the musculoskeletal system and connective tissue,17.0,0.23529411764705901,a
+m5116,m,"Intervertebral disc disorders with radiculopathy, lumbar region",Diseases of the musculoskeletal system and connective tissue,1114.0,0.242369838420108,a
+m5117,m,"Intervertebral disc disorders with radiculopathy, lumbosacral region",Diseases of the musculoskeletal system and connective tissue,381.0,0.275590551181102,a
+m5416,m,"Radiculopathy, lumbar region",Diseases of the musculoskeletal system and connective tissue,1152.0,0.18663194444444395,a
+m5431,m,"Sciatica, right side",Diseases of the musculoskeletal system and connective tissue,144.0,0.00694444444444444,a
+m5432,m,"Sciatica, left side",Diseases of the musculoskeletal system and connective tissue,127.0,0.031496062992126,a
+m5441,m,"Lumbago with sciatica, right side",Diseases of the musculoskeletal system and connective tissue,105.0,0.0476190476190476,a
+m5442,m,"Lumbago with sciatica, left side",Diseases of the musculoskeletal system and connective tissue,101.0,0.0594059405940594,a
+m549,m,"Dorsalgia, unspecified",Diseases of the musculoskeletal system and connective tissue,7934.0,0.0374338290899924,a
+m62561,m,"Muscle wasting and atrophy, not elsewhere classified, right lower leg",Diseases of the musculoskeletal system and connective tissue,12.0,0.0833333333333333,a
+m62562,m,"Muscle wasting and atrophy, not elsewhere classified, left lower leg",Diseases of the musculoskeletal system and connective tissue,10.0,0.1,a
+m65811,m,"Other synovitis and tenosynovitis, right shoulder",Diseases of the musculoskeletal system and connective tissue,21.0,0.0476190476190476,a
+m7061,m,"Trochanteric bursitis, right hip",Diseases of the musculoskeletal system and connective tissue,43.0,0.0232558139534884,a
+m7062,m,"Trochanteric bursitis, left hip",Diseases of the musculoskeletal system and connective tissue,55.0,0.0181818181818182,a
+m75121,m,"Complete rotator cuff tear or rupture of right shoulder, not specified as traumatic",Diseases of the musculoskeletal system and connective tissue,124.0,0.0,a
+m7521,m,"Bicipital tendinitis, right shoulder",Diseases of the musculoskeletal system and connective tissue,93.0,0.0,a
+m79604,m,Pain in right leg,Diseases of the musculoskeletal system and connective tissue,568.0,0.0440140845070423,a
+m79605,m,Pain in left leg,Diseases of the musculoskeletal system and connective tissue,575.0,0.0573913043478261,a
+m79641,m,Pain in right hand,Diseases of the musculoskeletal system and connective tissue,225.0,0.0133333333333333,a
+m79642,m,Pain in left hand,Diseases of the musculoskeletal system and connective tissue,145.0,0.0275862068965517,a
+m79661,m,Pain in right lower leg,Diseases of the musculoskeletal system and connective tissue,210.0,0.0571428571428571,a
+m79662,m,Pain in left lower leg,Diseases of the musculoskeletal system and connective tissue,225.0,0.08,a
+m79671,m,Pain in right foot,Diseases of the musculoskeletal system and connective tissue,351.0,0.0512820512820513,a
+m79672,m,Pain in left foot,Diseases of the musculoskeletal system and connective tissue,360.0,0.0444444444444444,a
+m868x7,m,"Other osteomyelitis, ankle and foot",Diseases of the musculoskeletal system and connective tissue,708.0,0.0692090395480226,c
+m869,m,"Osteomyelitis, unspecified",Diseases of the musculoskeletal system and connective tissue,1460.0,0.0931506849315069,c
+m87051,m,Idiopathic aseptic necrosis of right femur,Diseases of the musculoskeletal system and connective tissue,41.0,0.0487804878048781,c
+m87052,m,Idiopathic aseptic necrosis of left femur,Diseases of the musculoskeletal system and connective tissue,34.0,0.0588235294117647,c
+m87851,m,"Other osteonecrosis, right femur",Diseases of the musculoskeletal system and connective tissue,89.0,0.0337078651685393,c
+m87852,m,"Other osteonecrosis, left femur",Diseases of the musculoskeletal system and connective tissue,75.0,0.0533333333333333,c
+m9711xd,m,"Periprosthetic fracture around internal prosthetic right knee joint, subsequent encounter",Diseases of the musculoskeletal system and connective tissue,16.0,0.0,n
+m9712xd,m,"Periprosthetic fracture around internal prosthetic left knee joint, subsequent encounter",Diseases of the musculoskeletal system and connective tissue,15.0,0.0,n
+n138,n,Other obstructive and reflux uropathy,Diseases of the genitourinary system,1292.0,0.0727554179566563,a
+n141,n,"Nephropathy induced by other drugs, medicaments and biological substances",Diseases of the genitourinary system,575.0,0.175652173913043,c
+n170,n,Acute kidney failure with tubular necrosis,Diseases of the genitourinary system,6311.0,0.333386151164633,a
+n179,n,"Acute kidney failure, unspecified",Diseases of the genitourinary system,42852.0,0.098548492485765,a
+n186,n,End stage renal disease,Diseases of the genitourinary system,11113.0,0.10807162782327,c
+n189,n,"Chronic kidney disease, unspecified",Diseases of the genitourinary system,10121.0,0.0688667127754174,c
+n29,n,Other disorders of kidney and ureter in diseases classified elsewhere,Diseases of the genitourinary system,37.0,0.0810810810810811,a
+n319,n,"Neuromuscular dysfunction of bladder, unspecified",Diseases of the genitourinary system,2200.0,0.0909090909090909,c
+n390,n,"Urinary tract infection, site not specified",Diseases of the genitourinary system,20716.0,0.0741938598184978,a
+n401,n,Benign prostatic hyperplasia with lower urinary tract symptoms,Diseases of the genitourinary system,4814.0,0.0670959700872455,c
+n4821,n,Abscess of corpus cavernosum and penis,Diseases of the genitourinary system,15.0,0.0666666666666667,c
+n4822,n,Cellulitis of corpus cavernosum and penis,Diseases of the genitourinary system,23.0,0.0434782608695652,c
+n485,n,Ulcer of penis,Diseases of the genitourinary system,33.0,0.0909090909090909,c
+n750,n,Cyst of Bartholin's gland,Diseases of the genitourinary system,32.0,0.03125,a
+n751,n,Abscess of Bartholin's gland,Diseases of the genitourinary system,12.0,0.0833333333333333,a
+n762,n,Acute vulvitis,Diseases of the genitourinary system,88.0,0.0681818181818182,a
+n764,n,Abscess of vulva,Diseases of the genitourinary system,94.0,0.0531914893617021,a
+n801,n,Endometriosis of ovary,Diseases of the genitourinary system,59.0,0.0169491525423729,c
+n803,n,Endometriosis of pelvic peritoneum,Diseases of the genitourinary system,50.0,0.0,c
+n8110,n,"Cystocele, unspecified",Diseases of the genitourinary system,134.0,0.0,c
+n816,n,Rectocele,Diseases of the genitourinary system,58.0,0.0344827586206897,c
+n8301,n,Follicular cyst of right ovary,Diseases of the genitourinary system,16.0,0.0,a
+n8302,n,Follicular cyst of left ovary,Diseases of the genitourinary system,11.0,0.0,a
+n838,n,"Other noninflammatory disorders of ovary, fallopian tube and broad ligament",Diseases of the genitourinary system,196.0,0.0204081632653061,a
+n858,n,Other specified noninflammatory disorders of uterus,Diseases of the genitourinary system,1009.0,0.00495540138751239,a
+o1003,o,Pre-existing essential hypertension complicating the puerperium,"Pregnancy, childbirth and the puerperium",10.0,0.0,c
+o1092,o,Unspecified pre-existing hypertension complicating childbirth,"Pregnancy, childbirth and the puerperium",366.0,0.00273224043715847,c
+o1093,o,Unspecified pre-existing hypertension complicating the puerperium,"Pregnancy, childbirth and the puerperium",13.0,0.0,c
+o114,o,"Pre-existing hypertension with pre-eclampsia, complicating childbirth","Pregnancy, childbirth and the puerperium",232.0,0.00431034482758621,c
+o115,o,"Pre-existing hypertension with pre-eclampsia, complicating the puerperium","Pregnancy, childbirth and the puerperium",21.0,0.0,c
+o211,o,Hyperemesis gravidarum with metabolic disturbance,"Pregnancy, childbirth and the puerperium",70.0,0.0,a
+o2302,o,"Infections of kidney in pregnancy, second trimester","Pregnancy, childbirth and the puerperium",77.0,0.0,a
+o2341,o,"Unspecified infection of urinary tract in pregnancy, first trimester","Pregnancy, childbirth and the puerperium",22.0,0.0,a
+o2402,o,"Pre-existing type 1 diabetes mellitus, in childbirth","Pregnancy, childbirth and the puerperium",101.0,0.0,c
+o26611,o,"Liver and biliary tract disorders in pregnancy, first trimester","Pregnancy, childbirth and the puerperium",18.0,0.0555555555555556,a
+o2662,o,Liver and biliary tract disorders in childbirth,"Pregnancy, childbirth and the puerperium",416.0,0.00240384615384615,a
+o26872,o,"Cervical shortening, second trimester","Pregnancy, childbirth and the puerperium",89.0,0.0112359550561798,a
+o26891,o,"Other specified pregnancy related conditions, first trimester","Pregnancy, childbirth and the puerperium",34.0,0.0294117647058824,a
+o26893,o,"Other specified pregnancy related conditions, third trimester","Pregnancy, childbirth and the puerperium",1474.0,0.00067842605156038,a
+o30032,o,"Twin pregnancy, monochorionic/diamniotic, second trimester","Pregnancy, childbirth and the puerperium",15.0,0.0,a
+o30033,o,"Twin pregnancy, monochorionic/diamniotic, third trimester","Pregnancy, childbirth and the puerperium",99.0,0.0,a
+o30042,o,"Twin pregnancy, dichorionic/diamniotic, second trimester","Pregnancy, childbirth and the puerperium",51.0,0.0,a
+o30043,o,"Twin pregnancy, dichorionic/diamniotic, third trimester","Pregnancy, childbirth and the puerperium",423.0,0.00472813238770686,a
+o321xx1,o,"Maternal care for breech presentation, fetus 1","Pregnancy, childbirth and the puerperium",104.0,0.0,a
+o321xx2,o,"Maternal care for breech presentation, fetus 2","Pregnancy, childbirth and the puerperium",109.0,0.009174311926605509,a
+o328xx1,o,"Maternal care for other malpresentation of fetus, fetus 1","Pregnancy, childbirth and the puerperium",11.0,0.0,a
+o328xx2,o,"Maternal care for other malpresentation of fetus, fetus 2","Pregnancy, childbirth and the puerperium",23.0,0.0,a
+o3403,o,"Maternal care for unspecified congenital malformation of uterus, third trimester","Pregnancy, childbirth and the puerperium",139.0,0.0,a
+o3413,o,"Maternal care for benign tumor of corpus uteri, third trimester","Pregnancy, childbirth and the puerperium",419.0,0.00477326968973747,a
+o34211,o,Maternal care for low transverse scar from previous cesarean delivery,"Pregnancy, childbirth and the puerperium",4165.0,0.0014405762304922,a
+o3432,o,"Maternal care for cervical incompetence, second trimester","Pregnancy, childbirth and the puerperium",77.0,0.012987012987013,a
+o3483,o,"Maternal care for other abnormalities of pelvic organs, third trimester","Pregnancy, childbirth and the puerperium",236.0,0.0,a
+o364xx0,o,"Maternal care for intrauterine death, not applicable or unspecified","Pregnancy, childbirth and the puerperium",157.0,0.0063694267515923605,a
+o365931,o,"Maternal care for other known or suspected poor fetal growth, third trimester, fetus 1","Pregnancy, childbirth and the puerperium",45.0,0.0222222222222222,a
+o365932,o,"Maternal care for other known or suspected poor fetal growth, third trimester, fetus 2","Pregnancy, childbirth and the puerperium",38.0,0.0,a
+o411220,o,"Chorioamnionitis, second trimester, not applicable or unspecified","Pregnancy, childbirth and the puerperium",54.0,0.037037037037037,a
+o42912,o,"Preterm premature rupture of membranes, unspecified as to length of time between rupture and onset of labor, second trimester","Pregnancy, childbirth and the puerperium",73.0,0.0273972602739726,a
+o480,o,Post-term pregnancy,"Pregnancy, childbirth and the puerperium",3193.0,0.0,a
+o6002,o,"Preterm labor without delivery, second trimester","Pregnancy, childbirth and the puerperium",66.0,0.0,a
+o6012x0,o,"Preterm labor second trimester with preterm delivery second trimester, not applicable or unspecified","Pregnancy, childbirth and the puerperium",97.0,0.0103092783505155,a
+o6012x2,o,"Preterm labor second trimester with preterm delivery second trimester, fetus 2","Pregnancy, childbirth and the puerperium",12.0,0.0,a
+o6014x0,o,"Preterm labor third trimester with preterm delivery third trimester, not applicable or unspecified","Pregnancy, childbirth and the puerperium",895.0,0.00446927374301676,a
+o6014x1,o,"Preterm labor third trimester with preterm delivery third trimester, fetus 1","Pregnancy, childbirth and the puerperium",27.0,0.0,a
+o6014x2,o,"Preterm labor third trimester with preterm delivery third trimester, fetus 2","Pregnancy, childbirth and the puerperium",34.0,0.0,a
+o6981x0,o,"Labor and delivery complicated by cord around neck, without compression, not applicable or unspecified","Pregnancy, childbirth and the puerperium",5388.0,0.000371195248700817,a
+o701,o,Second degree perineal laceration during delivery,"Pregnancy, childbirth and the puerperium",5795.0,0.0,a
+o80,o,Encounter for full-term uncomplicated delivery,"Pregnancy, childbirth and the puerperium",4701.0,0.0,a
+o9812,o,Syphilis complicating childbirth,"Pregnancy, childbirth and the puerperium",67.0,0.0149253731343284,a
+o9822,o,Gonorrhea complicating childbirth,"Pregnancy, childbirth and the puerperium",20.0,0.0,a
+o9832,o,Other infections with a predominantly sexual mode of transmission complicating childbirth,"Pregnancy, childbirth and the puerperium",591.0,0.00338409475465313,a
+o9852,o,Other viral diseases complicating childbirth,"Pregnancy, childbirth and the puerperium",409.0,0.00244498777506112,a
+o99011,o,"Anemia complicating pregnancy, first trimester","Pregnancy, childbirth and the puerperium",43.0,0.0465116279069767,c
+o99012,o,"Anemia complicating pregnancy, second trimester","Pregnancy, childbirth and the puerperium",128.0,0.015625,c
+o99013,o,"Anemia complicating pregnancy, third trimester","Pregnancy, childbirth and the puerperium",294.0,0.00340136054421769,c
+o99111,o,"Other diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism complicating pregnancy, first trimester","Pregnancy, childbirth and the puerperium",20.0,0.0,a
+o99212,o,"Obesity complicating pregnancy, second trimester","Pregnancy, childbirth and the puerperium",105.0,0.0285714285714286,c
+o99281,o,"Endocrine, nutritional and metabolic diseases complicating pregnancy, first trimester","Pregnancy, childbirth and the puerperium",83.0,0.0240963855421687,a
+o99282,o,"Endocrine, nutritional and metabolic diseases complicating pregnancy, second trimester","Pregnancy, childbirth and the puerperium",148.0,0.0202702702702703,a
+o99283,o,"Endocrine, nutritional and metabolic diseases complicating pregnancy, third trimester","Pregnancy, childbirth and the puerperium",206.0,0.0,a
+o99285,o,"Endocrine, nutritional and metabolic diseases complicating the puerperium","Pregnancy, childbirth and the puerperium",115.0,0.0260869565217391,a
+o99321,o,"Drug use complicating pregnancy, first trimester","Pregnancy, childbirth and the puerperium",49.0,0.0,a
+o99322,o,"Drug use complicating pregnancy, second trimester","Pregnancy, childbirth and the puerperium",87.0,0.0114942528735632,a
+o99323,o,"Drug use complicating pregnancy, third trimester","Pregnancy, childbirth and the puerperium",135.0,0.0,a
+o99324,o,Drug use complicating childbirth,"Pregnancy, childbirth and the puerperium",933.0,0.00214362272240086,a
+o99325,o,Drug use complicating the puerperium,"Pregnancy, childbirth and the puerperium",51.0,0.0196078431372549,a
+o99331,o,"Smoking (tobacco) complicating pregnancy, first trimester","Pregnancy, childbirth and the puerperium",58.0,0.0172413793103448,a
+o99332,o,"Smoking (tobacco) complicating pregnancy, second trimester","Pregnancy, childbirth and the puerperium",89.0,0.0,a
+o99333,o,"Smoking (tobacco) complicating pregnancy, third trimester","Pregnancy, childbirth and the puerperium",121.0,0.0,a
+o99334,o,Smoking (tobacco) complicating childbirth,"Pregnancy, childbirth and the puerperium",1175.0,0.0025531914893617,a
+o99335,o,Smoking (tobacco) complicating the puerperium,"Pregnancy, childbirth and the puerperium",42.0,0.0,a
+o99341,o,"Other mental disorders complicating pregnancy, first trimester","Pregnancy, childbirth and the puerperium",52.0,0.0,a
+o99342,o,"Other mental disorders complicating pregnancy, second trimester","Pregnancy, childbirth and the puerperium",114.0,0.0175438596491228,a
+o99345,o,Other mental disorders complicating the puerperium,"Pregnancy, childbirth and the puerperium",146.0,0.0,a
+o99351,o,"Diseases of the nervous system complicating pregnancy, first trimester","Pregnancy, childbirth and the puerperium",24.0,0.0416666666666667,a
+o99411,o,"Diseases of the circulatory system complicating pregnancy, first trimester","Pregnancy, childbirth and the puerperium",15.0,0.0666666666666667,a
+o99511,o,"Diseases of the respiratory system complicating pregnancy, first trimester","Pregnancy, childbirth and the puerperium",48.0,0.0625,a
+o99512,o,"Diseases of the respiratory system complicating pregnancy, second trimester","Pregnancy, childbirth and the puerperium",116.0,0.0172413793103448,a
+o9953,o,Diseases of the respiratory system complicating the puerperium,"Pregnancy, childbirth and the puerperium",129.0,0.0,a
+o99611,o,"Diseases of the digestive system complicating pregnancy, first trimester","Pregnancy, childbirth and the puerperium",47.0,0.0,a
+o9972,o,Diseases of the skin and subcutaneous tissue complicating childbirth,"Pregnancy, childbirth and the puerperium",220.0,0.00909090909090909,a
+p0414,p,Newborn affected by maternal use of opiates,Certain conditions originating in the perinatal period,99.0,0.0404040404040404,c
+p0418,p,Newborn affected by other maternal medication,Certain conditions originating in the perinatal period,29.0,0.24137931034482799,c
+p0449,p,Newborn affected by maternal use of other drugs of addiction,Certain conditions originating in the perinatal period,500.0,0.06,c
+p0701,p,"Extremely low birth weight newborn, less than 500 grams",Certain conditions originating in the perinatal period,37.0,0.027027027027027,a
+p0702,p,"Extremely low birth weight newborn, 500-749 grams",Certain conditions originating in the perinatal period,61.0,0.639344262295082,a
+p0703,p,"Extremely low birth weight newborn, 750-999 grams",Certain conditions originating in the perinatal period,96.0,0.822916666666667,a
+p0714,p,"Other low birth weight newborn, 1000-1249 grams",Certain conditions originating in the perinatal period,78.0,0.8076923076923079,a
+p0715,p,"Other low birth weight newborn, 1250-1499 grams",Certain conditions originating in the perinatal period,107.0,0.6822429906542061,a
+p0716,p,"Other low birth weight newborn, 1500-1749 grams",Certain conditions originating in the perinatal period,171.0,0.40350877192982504,a
+p0717,p,"Other low birth weight newborn, 1750-1999 grams",Certain conditions originating in the perinatal period,232.0,0.18965517241379298,a
+p0718,p,"Other low birth weight newborn, 2000-2499 grams",Certain conditions originating in the perinatal period,894.0,0.0559284116331096,a
+p0721,p,"Extreme immaturity of newborn, gestational age less than 23 completed weeks",Certain conditions originating in the perinatal period,46.0,0.0,a
+p0722,p,"Extreme immaturity of newborn, gestational age 23 completed weeks",Certain conditions originating in the perinatal period,25.0,0.44,a
+p0723,p,"Extreme immaturity of newborn, gestational age 24 completed weeks",Certain conditions originating in the perinatal period,39.0,0.641025641025641,a
+p0724,p,"Extreme immaturity of newborn, gestational age 25 completed weeks",Certain conditions originating in the perinatal period,46.0,0.6304347826086961,a
+p0725,p,"Extreme immaturity of newborn, gestational age 26 completed weeks",Certain conditions originating in the perinatal period,48.0,0.625,a
+p0731,p,"Preterm newborn, gestational age 28 completed weeks",Certain conditions originating in the perinatal period,73.0,0.7397260273972601,a
+p0732,p,"Preterm newborn, gestational age 29 completed weeks",Certain conditions originating in the perinatal period,67.0,0.776119402985075,a
+p0733,p,"Preterm newborn, gestational age 30 completed weeks",Certain conditions originating in the perinatal period,88.0,0.75,a
+p0734,p,"Preterm newborn, gestational age 31 completed weeks",Certain conditions originating in the perinatal period,124.0,0.532258064516129,a
+p0736,p,"Preterm newborn, gestational age 33 completed weeks",Certain conditions originating in the perinatal period,248.0,0.137096774193548,a
+p0737,p,"Preterm newborn, gestational age 34 completed weeks",Certain conditions originating in the perinatal period,505.0,0.0653465346534653,a
+p0738,p,"Preterm newborn, gestational age 35 completed weeks",Certain conditions originating in the perinatal period,704.0,0.0340909090909091,a
+p0739,p,"Preterm newborn, gestational age 36 completed weeks",Certain conditions originating in the perinatal period,1236.0,0.0218446601941748,a
+p09,p,Abnormal findings on neonatal screening,Certain conditions originating in the perinatal period,192.0,0.0260416666666667,a
+p220,p,Respiratory distress syndrome of newborn,Certain conditions originating in the perinatal period,870.0,0.427586206896552,a
+p269,p,Unspecified pulmonary hemorrhage originating in the perinatal period,Certain conditions originating in the perinatal period,22.0,0.7272727272727271,a
+p284,p,Other apnea of newborn,Certain conditions originating in the perinatal period,937.0,0.418356456776948,a
+p285,p,Respiratory failure of newborn,Certain conditions originating in the perinatal period,493.0,0.316430020283976,a
+p2912,p,Neonatal bradycardia,Certain conditions originating in the perinatal period,423.0,0.319148936170213,a
+p590,p,Neonatal jaundice associated with preterm delivery,Certain conditions originating in the perinatal period,1583.0,0.272267845862287,a
+p60,p,Disseminated intravascular coagulation of newborn,Certain conditions originating in the perinatal period,23.0,0.565217391304348,a
+p612,p,Anemia of prematurity,Certain conditions originating in the perinatal period,579.0,0.651122625215889,a
+p704,p,Other neonatal hypoglycemia,Certain conditions originating in the perinatal period,1660.0,0.0740963855421687,a
+p711,p,Other neonatal hypocalcemia,Certain conditions originating in the perinatal period,102.0,0.46078431372548995,a
+p718,p,Other transitory neonatal disorders of calcium and magnesium metabolism,Certain conditions originating in the perinatal period,49.0,0.510204081632653,a
+p7421,p,Hypernatremia of newborn,Certain conditions originating in the perinatal period,71.0,0.549295774647887,a
+p7422,p,Hyponatremia of newborn,Certain conditions originating in the perinatal period,225.0,0.604444444444444,a
+p7441,p,Alkalosis of newborn,Certain conditions originating in the perinatal period,39.0,0.7692307692307689,a
+p74421,p,Hyperchloremia of newborn,Certain conditions originating in the perinatal period,35.0,0.5142857142857139,a
+p74422,p,Hypochloremia of newborn,Certain conditions originating in the perinatal period,30.0,0.633333333333333,a
+p779,p,"Necrotizing enterocolitis in newborn, unspecified",Certain conditions originating in the perinatal period,23.0,0.8695652173913041,a
+p780,p,Perinatal intestinal perforation,Certain conditions originating in the perinatal period,10.0,0.9,a
+p832,p,Hydrops fetalis not due to hemolytic disease,Certain conditions originating in the perinatal period,10.0,0.6,a
+p84,p,Other problems with newborn,Certain conditions originating in the perinatal period,777.0,0.26640926640926604,a
+p929,p,"Feeding problem of newborn, unspecified",Certain conditions originating in the perinatal period,1060.0,0.15377358490566,a
+p961,p,Neonatal withdrawal symptoms from maternal use of drugs of addiction,Certain conditions originating in the perinatal period,361.0,0.0803324099722992,a
+p9689,p,Other specified conditions originating in the perinatal period,Certain conditions originating in the perinatal period,643.0,0.312597200622084,a
+q210,q,Ventricular septal defect,Congenital and chromosomal abnormalities,510.0,0.229411764705882,c
+q211,q,Atrial septal defect,Congenital and chromosomal abnormalities,2205.0,0.266666666666667,c
+q220,q,Pulmonary valve atresia,Congenital and chromosomal abnormalities,21.0,0.7142857142857142,c
+q250,q,Patent ductus arteriosus,Congenital and chromosomal abnormalities,703.0,0.39687055476529204,c
+q251,q,Coarctation of aorta,Congenital and chromosomal abnormalities,58.0,0.43103448275862105,c
+q2542,q,Hypoplasia of aorta,Congenital and chromosomal abnormalities,22.0,0.7272727272727271,c
+q2545,q,Double aortic arch,Congenital and chromosomal abnormalities,10.0,0.3,c
+q2547,q,Right aortic arch,Congenital and chromosomal abnormalities,29.0,0.31034482758620696,c
+q255,q,Atresia of pulmonary artery,Congenital and chromosomal abnormalities,23.0,0.4782608695652171,c
+q258,q,Other congenital malformations of other great arteries,Congenital and chromosomal abnormalities,12.0,0.25,c
+q278,q,Other specified congenital malformations of peripheral vascular system,Congenital and chromosomal abnormalities,37.0,0.216216216216216,c
+q320,q,Congenital tracheomalacia,Congenital and chromosomal abnormalities,42.0,0.47619047619047605,c
+q322,q,Congenital bronchomalacia,Congenital and chromosomal abnormalities,16.0,0.5625,c
+q382,q,Macroglossia,Congenital and chromosomal abnormalities,18.0,0.0555555555555556,c
+q442,q,Atresia of bile ducts,Congenital and chromosomal abnormalities,25.0,0.16,c
+q513,q,Bicornate uterus,Congenital and chromosomal abnormalities,93.0,0.0,c
+q6601,q,"Congenital talipes equinovarus, right foot",Congenital and chromosomal abnormalities,34.0,0.0882352941176471,c
+q6602,q,"Congenital talipes equinovarus, left foot",Congenital and chromosomal abnormalities,32.0,0.09375,c
+q676,q,Pectus excavatum,Congenital and chromosomal abnormalities,161.0,0.0434782608695652,c
+q688,q,Other specified congenital musculoskeletal deformities,Congenital and chromosomal abnormalities,27.0,0.185185185185185,c
+q743,q,Arthrogryposis multiplex congenita,Congenital and chromosomal abnormalities,15.0,0.2,c
+q873,q,Congenital malformation syndromes involving early overgrowth,Congenital and chromosomal abnormalities,10.0,0.3,c
+r180,r,Malignant ascites,abnormal clinical findings,481.0,0.051975051975052006,c
+r188,r,Other ascites,abnormal clinical findings,4349.0,0.143021384226259,a
+r269,r,Unspecified abnormalities of gait and mobility,abnormal clinical findings,2697.0,0.0203930292918057,a
+r29810,r,Facial weakness,abnormal clinical findings,2857.0,0.0707035351767588,a
+r338,r,Other retention of urine,abnormal clinical findings,3229.0,0.0799008981108702,a
+r402110,r,"Coma scale, eyes open, never, unspecified time",abnormal clinical findings,22.0,0.0,n
+r402111,r,"Coma scale, eyes open, never, in the field [EMT or ambulance]",abnormal clinical findings,70.0,0.28571428571428603,n
+r402112,r,"Coma scale, eyes open, never, at arrival to emergency department",abnormal clinical findings,354.0,0.285310734463277,n
+r402113,r,"Coma scale, eyes open, never, at hospital admission",abnormal clinical findings,155.0,0.193548387096774,n
+r402114,r,"Coma scale, eyes open, never, 24 hours or more after hospital admission",abnormal clinical findings,122.0,0.20491803278688503,n
+r402121,r,"Coma scale, eyes open, to pain, in the field [EMT or ambulance]",abnormal clinical findings,15.0,0.0666666666666667,n
+r402122,r,"Coma scale, eyes open, to pain, at arrival to emergency department",abnormal clinical findings,114.0,0.18421052631578896,n
+r402123,r,"Coma scale, eyes open, to pain, at hospital admission",abnormal clinical findings,100.0,0.07,n
+r402124,r,"Coma scale, eyes open, to pain, 24 hours or more after hospital admission",abnormal clinical findings,116.0,0.258620689655172,n
+r402132,r,"Coma scale, eyes open, to sound, at arrival to emergency department",abnormal clinical findings,99.0,0.17171717171717202,n
+r402133,r,"Coma scale, eyes open, to sound, at hospital admission",abnormal clinical findings,68.0,0.0735294117647059,n
+r402134,r,"Coma scale, eyes open, to sound, 24 hours or more after hospital admission",abnormal clinical findings,98.0,0.153061224489796,n
+r402141,r,"Coma scale, eyes open, spontaneous, in the field [EMT or ambulance]",abnormal clinical findings,60.0,0.266666666666667,n
+r402142,r,"Coma scale, eyes open, spontaneous, at arrival to emergency department",abnormal clinical findings,796.0,0.0954773869346734,n
+r402143,r,"Coma scale, eyes open, spontaneous, at hospital admission",abnormal clinical findings,437.0,0.0297482837528604,n
+r402144,r,"Coma scale, eyes open, spontaneous, 24 hours or more after hospital admission",abnormal clinical findings,117.0,0.094017094017094,n
+r402210,r,"Coma scale, best verbal response, none, unspecified time",abnormal clinical findings,29.0,0.0689655172413793,n
+r402211,r,"Coma scale, best verbal response, none, in the field [EMT or ambulance]",abnormal clinical findings,74.0,0.22972972972973,n
+r402212,r,"Coma scale, best verbal response, none, at arrival to emergency department",abnormal clinical findings,433.0,0.263279445727483,n
+r402213,r,"Coma scale, best verbal response, none, at hospital admission",abnormal clinical findings,257.0,0.136186770428016,n
+r402214,r,"Coma scale, best verbal response, none, 24 hours or more after hospital admission",abnormal clinical findings,230.0,0.273913043478261,n
+r402221,r,"Coma scale, best verbal response, incomprehensible words, in the field [EMT or ambulance]",abnormal clinical findings,17.0,0.23529411764705901,n
+r402222,r,"Coma scale, best verbal response, incomprehensible words, at arrival to emergency department",abnormal clinical findings,136.0,0.169117647058824,n
+r402223,r,"Coma scale, best verbal response, incomprehensible words, at hospital admission",abnormal clinical findings,93.0,0.0967741935483871,n
+r402224,r,"Coma scale, best verbal response, incomprehensible words, 24 hours or more after hospital admission",abnormal clinical findings,98.0,0.204081632653061,n
+r402241,r,"Coma scale, best verbal response, confused conversation, in the field [EMT or ambulance]",abnormal clinical findings,22.0,0.31818181818181795,n
+r402242,r,"Coma scale, best verbal response, confused conversation, at arrival to emergency department",abnormal clinical findings,180.0,0.133333333333333,n
+r402243,r,"Coma scale, best verbal response, confused conversation, at hospital admission",abnormal clinical findings,124.0,0.0645161290322581,n
+r402244,r,"Coma scale, best verbal response, confused conversation, 24 hours or more after hospital admission",abnormal clinical findings,89.0,0.11235955056179801,n
+r402251,r,"Coma scale, best verbal response, oriented, in the field [EMT or ambulance]",abnormal clinical findings,32.0,0.21875,n
+r402252,r,"Coma scale, best verbal response, oriented, at arrival to emergency department",abnormal clinical findings,555.0,0.0828828828828829,n
+r402253,r,"Coma scale, best verbal response, oriented, at hospital admission",abnormal clinical findings,271.0,0.018450184501845,n
+r402254,r,"Coma scale, best verbal response, oriented, 24 hours or more after hospital admission",abnormal clinical findings,54.0,0.111111111111111,n
+r402310,r,"Coma scale, best motor response, none, unspecified time",abnormal clinical findings,19.0,0.0,n
+r402311,r,"Coma scale, best motor response, none, in the field [EMT or ambulance]",abnormal clinical findings,55.0,0.25454545454545496,n
+r402312,r,"Coma scale, best motor response, none, at arrival to emergency department",abnormal clinical findings,234.0,0.264957264957265,n
+r402313,r,"Coma scale, best motor response, none, at hospital admission",abnormal clinical findings,76.0,0.157894736842105,n
+r402314,r,"Coma scale, best motor response, none, 24 hours or more after hospital admission",abnormal clinical findings,79.0,0.164556962025316,n
+r402341,r,"Coma scale, best motor response, flexion withdrawal, in the field [EMT or ambulance]",abnormal clinical findings,27.0,0.25925925925925897,n
+r402342,r,"Coma scale, best motor response, flexion withdrawal, at arrival to emergency department",abnormal clinical findings,129.0,0.24031007751938,n
+r402343,r,"Coma scale, best motor response, flexion withdrawal, at hospital admission",abnormal clinical findings,71.0,0.0985915492957746,n
+r402344,r,"Coma scale, best motor response, flexion withdrawal, 24 hours or more after hospital admission",abnormal clinical findings,77.0,0.272727272727273,n
+r402351,r,"Coma scale, best motor response, localizes pain, in the field [EMT or ambulance]",abnormal clinical findings,17.0,0.11764705882352902,n
+r402352,r,"Coma scale, best motor response, localizes pain, at arrival to emergency department",abnormal clinical findings,195.0,0.15897435897435902,n
+r402353,r,"Coma scale, best motor response, localizes pain, at hospital admission",abnormal clinical findings,134.0,0.0597014925373134,n
+r402354,r,"Coma scale, best motor response, localizes pain, 24 hours or more after hospital admission",abnormal clinical findings,116.0,0.146551724137931,n
+r402361,r,"Coma scale, best motor response, obeys commands, in the field [EMT or ambulance]",abnormal clinical findings,45.0,0.222222222222222,n
+r402362,r,"Coma scale, best motor response, obeys commands, at arrival to emergency department",abnormal clinical findings,735.0,0.10204081632653099,n
+r402363,r,"Coma scale, best motor response, obeys commands, at hospital admission",abnormal clinical findings,407.0,0.0343980343980344,n
+r402364,r,"Coma scale, best motor response, obeys commands, 24 hours or more after hospital admission",abnormal clinical findings,126.0,0.11904761904761901,n
+r413,r,Other amnesia,abnormal clinical findings,772.0,0.0246113989637306,a
+r41840,r,Attention and concentration deficit,abnormal clinical findings,161.0,0.0062111801242236,c
+r41844,r,Frontal lobe and executive function deficit,abnormal clinical findings,120.0,0.0333333333333333,c
+r419,r,Unspecified symptoms and signs involving cognitive functions and awareness,abnormal clinical findings,498.0,0.0140562248995984,a
+r430,r,Anosmia,abnormal clinical findings,32.0,0.0,a
+r432,r,Parageusia,abnormal clinical findings,33.0,0.0909090909090909,a
+r440,r,Auditory hallucinations,abnormal clinical findings,262.0,0.0114503816793893,a
+r441,r,Visual hallucinations,abnormal clinical findings,352.0,0.0511363636363636,a
+r45851,r,Suicidal ideations,abnormal clinical findings,21687.0,0.00553326877853092,a
+r4701,r,Aphasia,abnormal clinical findings,3385.0,0.115509601181684,c
+r471,r,Dysarthria and anarthria,abnormal clinical findings,1906.0,0.0655823714585519,a
+r4781,r,Slurred speech,abnormal clinical findings,1367.0,0.041697147037307994,a
+r5081,r,Fever presenting with conditions classified elsewhere,abnormal clinical findings,1170.0,0.13931623931623902,a
+r52,r,"Pain, unspecified",abnormal clinical findings,531.0,0.0150659133709981,a
+r530,r,Neoplastic (malignant) related fatigue,abnormal clinical findings,128.0,0.078125,a
+r5383,r,Other fatigue,abnormal clinical findings,1352.0,0.0266272189349112,a
+r633,r,Feeding difficulties,abnormal clinical findings,806.0,0.18610421836228302,a
+r64,r,Cachexia,abnormal clinical findings,2250.0,0.0982222222222222,a
+r6521,r,Severe sepsis with septic shock,abnormal clinical findings,7188.0,0.36213132999443504,a
+r6889,r,Other general symptoms and signs,abnormal clinical findings,821.0,0.0048721071863581,a
+r739,r,"Hyperglycemia, unspecified",abnormal clinical findings,6229.0,0.14191684058436302,n
+r791,r,Abnormal coagulation profile,abnormal clinical findings,2523.0,0.0590566785572731,n
+r94120,r,Abnormal auditory function study,abnormal clinical findings,291.0,0.0206185567010309,n
+s020xxa,s,"Fracture of vault of skull, initial encounter for closed fracture",Injury or poisoning,246.0,0.19918699186991898,a
+s020xxb,s,"Fracture of vault of skull, initial encounter for open fracture",Injury or poisoning,41.0,0.26829268292682895,a
+s020xxd,s,"Fracture of vault of skull, subsequent encounter for fracture with routine healing",Injury or poisoning,38.0,0.0526315789473684,n
+s0219xa,s,"Other fracture of base of skull, initial encounter for closed fracture",Injury or poisoning,330.0,0.26363636363636395,a
+s0219xb,s,"Other fracture of base of skull, initial encounter for open fracture",Injury or poisoning,43.0,0.348837209302326,a
+s0219xd,s,"Other fracture of base of skull, subsequent encounter for fracture with routine healing",Injury or poisoning,49.0,0.0408163265306122,n
+s0231xa,s,"Fracture of orbital floor, right side, initial encounter for closed fracture",Injury or poisoning,151.0,0.165562913907285,a
+s0231xb,s,"Fracture of orbital floor, right side, initial encounter for open fracture",Injury or poisoning,13.0,0.538461538461538,a
+s0231xd,s,"Fracture of orbital floor, right side, subsequent encounter for fracture with routine healing",Injury or poisoning,18.0,0.0555555555555556,n
+s0232xa,s,"Fracture of orbital floor, left side, initial encounter for closed fracture",Injury or poisoning,148.0,0.18243243243243198,a
+s0232xb,s,"Fracture of orbital floor, left side, initial encounter for open fracture",Injury or poisoning,11.0,0.45454545454545503,a
+s0232xd,s,"Fracture of orbital floor, left side, subsequent encounter for fracture with routine healing",Injury or poisoning,19.0,0.0,n
+s0240ca,s,"Maxillary fracture, right side, initial encounter for closed fracture",Injury or poisoning,140.0,0.14285714285714302,a
+s0240cd,s,"Maxillary fracture, right side, subsequent encounter for fracture with routine healing",Injury or poisoning,20.0,0.0,n
+s0240da,s,"Maxillary fracture, left side, initial encounter for closed fracture",Injury or poisoning,143.0,0.146853146853147,a
+s0240db,s,"Maxillary fracture, left side, initial encounter for open fracture",Injury or poisoning,12.0,0.5,a
+s0240dd,s,"Maxillary fracture, left side, subsequent encounter for fracture with routine healing",Injury or poisoning,12.0,0.0,n
+s0240ea,s,"Zygomatic fracture, right side, initial encounter for closed fracture",Injury or poisoning,119.0,0.243697478991597,a
+s0240ed,s,"Zygomatic fracture, right side, subsequent encounter for fracture with routine healing",Injury or poisoning,12.0,0.0833333333333333,n
+s0240fa,s,"Zygomatic fracture, left side, initial encounter for closed fracture",Injury or poisoning,118.0,0.26271186440678,a
+s02411a,s,"LeFort I fracture, initial encounter for closed fracture",Injury or poisoning,28.0,0.32142857142857106,a
+s02412a,s,"LeFort II fracture, initial encounter for closed fracture",Injury or poisoning,27.0,0.444444444444444,a
+s02413a,s,"LeFort III fracture, initial encounter for closed fracture",Injury or poisoning,23.0,0.565217391304348,a
+s02609b,s,"Fracture of mandible, unspecified, initial encounter for open fracture",Injury or poisoning,12.0,0.583333333333333,a
+s02621a,s,"Fracture of subcondylar process of right mandible, initial encounter for closed fracture",Injury or poisoning,15.0,0.0666666666666667,a
+s02622a,s,"Fracture of subcondylar process of left mandible, initial encounter for closed fracture",Injury or poisoning,17.0,0.11764705882352902,a
+s0266xb,s,"Fracture of symphysis of mandible, initial encounter for open fracture",Injury or poisoning,15.0,0.46666666666666706,a
+s02831a,s,"Fracture of medial orbital wall, right side, initial encounter for closed fracture",Injury or poisoning,62.0,0.241935483870968,a
+s02832a,s,"Fracture of medial orbital wall, left side, initial encounter for closed fracture",Injury or poisoning,65.0,0.16923076923076902,a
+s02841a,s,"Fracture of lateral orbital wall, right side, initial encounter for closed fracture",Injury or poisoning,53.0,0.320754716981132,a
+s02842a,s,"Fracture of lateral orbital wall, left side, initial encounter for closed fracture",Injury or poisoning,65.0,0.2,a
+s061x7a,s,"Traumatic cerebral edema with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",Injury or poisoning,25.0,0.4,a
+s062x7a,s,"Diffuse traumatic brain injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",Injury or poisoning,12.0,0.33333333333333304,a
+s062x9s,s,"Diffuse traumatic brain injury with loss of consciousness of unspecified duration, sequela",Injury or poisoning,13.0,0.0,n
+s065x0a,s,"Traumatic subdural hemorrhage without loss of consciousness, initial encounter",Injury or poisoning,582.0,0.0910652920962199,a
+s065x0d,s,"Traumatic subdural hemorrhage without loss of consciousness, subsequent encounter",Injury or poisoning,105.0,0.0380952380952381,n
+s065x0s,s,"Traumatic subdural hemorrhage without loss of consciousness, sequela",Injury or poisoning,37.0,0.027027027027027,n
+s065x1a,s,"Traumatic subdural hemorrhage with loss of consciousness of 30 minutes or less, initial encounter",Injury or poisoning,144.0,0.166666666666667,a
+s065x6a,s,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",Injury or poisoning,11.0,1.0,a
+s065x7a,s,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, initial encounter",Injury or poisoning,37.0,0.351351351351351,a
+s065x9a,s,"Traumatic subdural hemorrhage with loss of consciousness of unspecified duration, initial encounter",Injury or poisoning,850.0,0.163529411764706,a
+s065x9d,s,"Traumatic subdural hemorrhage with loss of consciousness of unspecified duration, subsequent encounter",Injury or poisoning,191.0,0.0523560209424084,n
+s065x9s,s,"Traumatic subdural hemorrhage with loss of consciousness of unspecified duration, sequela",Injury or poisoning,32.0,0.0625,n
+s066x0a,s,"Traumatic subarachnoid hemorrhage without loss of consciousness, initial encounter",Injury or poisoning,302.0,0.10596026490066199,a
+s066x0d,s,"Traumatic subarachnoid hemorrhage without loss of consciousness, subsequent encounter",Injury or poisoning,61.0,0.0819672131147541,n
+s066x0s,s,"Traumatic subarachnoid hemorrhage without loss of consciousness, sequela",Injury or poisoning,11.0,0.0909090909090909,n
+s066x1a,s,"Traumatic subarachnoid hemorrhage with loss of consciousness of 30 minutes or less, initial encounter",Injury or poisoning,154.0,0.155844155844156,a
+s066x6a,s,"Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter",Injury or poisoning,15.0,0.933333333333333,a
+s066x7a,s,"Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",Injury or poisoning,42.0,0.38095238095238104,a
+s066x9a,s,"Traumatic subarachnoid hemorrhage with loss of consciousness of unspecified duration, initial encounter",Injury or poisoning,562.0,0.19750889679715303,a
+s066x9d,s,"Traumatic subarachnoid hemorrhage with loss of consciousness of unspecified duration, subsequent encounter",Injury or poisoning,108.0,0.0277777777777778,n
+s066x9s,s,"Traumatic subarachnoid hemorrhage with loss of consciousness of unspecified duration, sequela",Injury or poisoning,19.0,0.10526315789473699,n
+s12000d,s,"Unspecified displaced fracture of first cervical vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,27.0,0.111111111111111,n
+s12100d,s,"Unspecified displaced fracture of second cervical vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,40.0,0.125,n
+s12190a,s,"Other displaced fracture of second cervical vertebra, initial encounter for closed fracture",Injury or poisoning,18.0,0.33333333333333304,a
+s12200a,s,"Unspecified displaced fracture of third cervical vertebra, initial encounter for closed fracture",Injury or poisoning,30.0,0.3666666666666671,a
+s12200d,s,"Unspecified displaced fracture of third cervical vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,16.0,0.125,n
+s12201a,s,"Unspecified nondisplaced fracture of third cervical vertebra, initial encounter for closed fracture",Injury or poisoning,10.0,0.0,a
+s12290a,s,"Other displaced fracture of third cervical vertebra, initial encounter for closed fracture",Injury or poisoning,11.0,0.36363636363636404,a
+s12300a,s,"Unspecified displaced fracture of fourth cervical vertebra, initial encounter for closed fracture",Injury or poisoning,42.0,0.28571428571428603,a
+s12300d,s,"Unspecified displaced fracture of fourth cervical vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,14.0,0.0,n
+s12301a,s,"Unspecified nondisplaced fracture of fourth cervical vertebra, initial encounter for closed fracture",Injury or poisoning,10.0,0.3,a
+s12390a,s,"Other displaced fracture of fourth cervical vertebra, initial encounter for closed fracture",Injury or poisoning,10.0,0.6,a
+s12400a,s,"Unspecified displaced fracture of fifth cervical vertebra, initial encounter for closed fracture",Injury or poisoning,57.0,0.315789473684211,a
+s12400d,s,"Unspecified displaced fracture of fifth cervical vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,26.0,0.0384615384615385,n
+s12500a,s,"Unspecified displaced fracture of sixth cervical vertebra, initial encounter for closed fracture",Injury or poisoning,111.0,0.46846846846846796,a
+s12500d,s,"Unspecified displaced fracture of sixth cervical vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,31.0,0.032258064516129,n
+s12501a,s,"Unspecified nondisplaced fracture of sixth cervical vertebra, initial encounter for closed fracture",Injury or poisoning,16.0,0.25,a
+s12590a,s,"Other displaced fracture of sixth cervical vertebra, initial encounter for closed fracture",Injury or poisoning,20.0,0.2,a
+s12590d,s,"Other displaced fracture of sixth cervical vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,10.0,0.1,n
+s12600a,s,"Unspecified displaced fracture of seventh cervical vertebra, initial encounter for closed fracture",Injury or poisoning,124.0,0.403225806451613,a
+s12600d,s,"Unspecified displaced fracture of seventh cervical vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,44.0,0.0909090909090909,n
+s12601a,s,"Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for closed fracture",Injury or poisoning,25.0,0.28,a
+s12690a,s,"Other displaced fracture of seventh cervical vertebra, initial encounter for closed fracture",Injury or poisoning,23.0,0.39130434782608703,a
+s12690d,s,"Other displaced fracture of seventh cervical vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,13.0,0.0769230769230769,n
+s14105s,s,"Unspecified injury at C5 level of cervical spinal cord, sequela",Injury or poisoning,17.0,0.0,n
+s14106s,s,"Unspecified injury at C6 level of cervical spinal cord, sequela",Injury or poisoning,12.0,0.0833333333333333,n
+s20311a,s,"Abrasion of right front wall of thorax, initial encounter",Injury or poisoning,27.0,0.0740740740740741,a
+s20312a,s,"Abrasion of left front wall of thorax, initial encounter",Injury or poisoning,34.0,0.17647058823529396,a
+s20411a,s,"Abrasion of right back wall of thorax, initial encounter",Injury or poisoning,11.0,0.0909090909090909,a
+s20412a,s,"Abrasion of left back wall of thorax, initial encounter",Injury or poisoning,15.0,0.0666666666666667,a
+s22010a,s,"Wedge compression fracture of first thoracic vertebra, initial encounter for closed fracture",Injury or poisoning,10.0,0.4,a
+s22018a,s,"Other fracture of first thoracic vertebra, initial encounter for closed fracture",Injury or poisoning,21.0,0.47619047619047605,a
+s22019a,s,"Unspecified fracture of first thoracic vertebra, initial encounter for closed fracture",Injury or poisoning,77.0,0.40259740259740295,a
+s22019d,s,"Unspecified fracture of first thoracic vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,30.0,0.1,n
+s22020a,s,"Wedge compression fracture of second thoracic vertebra, initial encounter for closed fracture",Injury or poisoning,11.0,0.18181818181818202,a
+s22028a,s,"Other fracture of second thoracic vertebra, initial encounter for closed fracture",Injury or poisoning,17.0,0.647058823529412,a
+s22029a,s,"Unspecified fracture of second thoracic vertebra, initial encounter for closed fracture",Injury or poisoning,53.0,0.358490566037736,a
+s22029d,s,"Unspecified fracture of second thoracic vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,22.0,0.0454545454545455,n
+s22030a,s,"Wedge compression fracture of third thoracic vertebra, initial encounter for closed fracture",Injury or poisoning,15.0,0.266666666666667,a
+s22038a,s,"Other fracture of third thoracic vertebra, initial encounter for closed fracture",Injury or poisoning,18.0,0.38888888888888895,a
+s22039a,s,"Unspecified fracture of third thoracic vertebra, initial encounter for closed fracture",Injury or poisoning,57.0,0.315789473684211,a
+s22039d,s,"Unspecified fracture of third thoracic vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,19.0,0.0526315789473684,n
+s22040a,s,"Wedge compression fracture of fourth thoracic vertebra, initial encounter for closed fracture",Injury or poisoning,15.0,0.266666666666667,a
+s22048a,s,"Other fracture of fourth thoracic vertebra, initial encounter for closed fracture",Injury or poisoning,14.0,0.28571428571428603,a
+s22049a,s,"Unspecified fracture of fourth thoracic vertebra, initial encounter for closed fracture",Injury or poisoning,63.0,0.28571428571428603,a
+s22049d,s,"Unspecified fracture of fourth thoracic vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,24.0,0.0,n
+s22050a,s,"Wedge compression fracture of T5-T6 vertebra, initial encounter for closed fracture",Injury or poisoning,32.0,0.125,a
+s22050d,s,"Wedge compression fracture of T5-T6 vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,10.0,0.0,n
+s22058a,s,"Other fracture of T5-T6 vertebra, initial encounter for closed fracture",Injury or poisoning,26.0,0.153846153846154,a
+s22059a,s,"Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture",Injury or poisoning,95.0,0.378947368421053,a
+s22059d,s,"Unspecified fracture of T5-T6 vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,26.0,0.0,n
+s22060a,s,"Wedge compression fracture of T7-T8 vertebra, initial encounter for closed fracture",Injury or poisoning,34.0,0.20588235294117604,a
+s22060d,s,"Wedge compression fracture of T7-T8 vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,10.0,0.0,n
+s22068a,s,"Other fracture of T7-T8 thoracic vertebra, initial encounter for closed fracture",Injury or poisoning,32.0,0.3125,a
+s22069a,s,"Unspecified fracture of T7-T8 vertebra, initial encounter for closed fracture",Injury or poisoning,97.0,0.27835051546391804,a
+s22069d,s,"Unspecified fracture of T7-T8 vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,34.0,0.0294117647058824,n
+s22070a,s,"Wedge compression fracture of T9-T10 vertebra, initial encounter for closed fracture",Injury or poisoning,27.0,0.0740740740740741,a
+s22070d,s,"Wedge compression fracture of T9-T10 vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,12.0,0.0,n
+s22078a,s,"Other fracture of T9-T10 vertebra, initial encounter for closed fracture",Injury or poisoning,39.0,0.46153846153846206,a
+s22079a,s,"Unspecified fracture of T9-T10 vertebra, initial encounter for closed fracture",Injury or poisoning,86.0,0.255813953488372,a
+s22079d,s,"Unspecified fracture of T9-T10 vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,21.0,0.0,n
+s22080a,s,"Wedge compression fracture of T11-T12 vertebra, initial encounter for closed fracture",Injury or poisoning,56.0,0.14285714285714302,a
+s22080d,s,"Wedge compression fracture of T11-T12 vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,31.0,0.0,n
+s22088a,s,"Other fracture of T11-T12 vertebra, initial encounter for closed fracture",Injury or poisoning,51.0,0.294117647058824,a
+s22089a,s,"Unspecified fracture of T11-T12 vertebra, initial encounter for closed fracture",Injury or poisoning,217.0,0.21658986175115197,a
+s22089d,s,"Unspecified fracture of T11-T12 vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,67.0,0.0746268656716418,n
+s271xxd,s,"Traumatic hemothorax, subsequent encounter",Injury or poisoning,18.0,0.0,n
+s32018a,s,"Other fracture of first lumbar vertebra, initial encounter for closed fracture",Injury or poisoning,84.0,0.273809523809524,a
+s32018d,s,"Other fracture of first lumbar vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,34.0,0.0294117647058824,n
+s32019a,s,"Unspecified fracture of first lumbar vertebra, initial encounter for closed fracture",Injury or poisoning,261.0,0.20306513409961702,a
+s32019d,s,"Unspecified fracture of first lumbar vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,78.0,0.0128205128205128,n
+s32020d,s,"Wedge compression fracture of second lumbar vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,14.0,0.0,n
+s32028a,s,"Other fracture of second lumbar vertebra, initial encounter for closed fracture",Injury or poisoning,62.0,0.258064516129032,a
+s32028d,s,"Other fracture of second lumbar vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,22.0,0.0,n
+s32029a,s,"Unspecified fracture of second lumbar vertebra, initial encounter for closed fracture",Injury or poisoning,246.0,0.24390243902439002,a
+s32029d,s,"Unspecified fracture of second lumbar vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,61.0,0.0163934426229508,n
+s32030d,s,"Wedge compression fracture of third lumbar vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,10.0,0.0,n
+s32038a,s,"Other fracture of third lumbar vertebra, initial encounter for closed fracture",Injury or poisoning,52.0,0.326923076923077,a
+s32038d,s,"Other fracture of third lumbar vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,22.0,0.0,n
+s32039a,s,"Unspecified fracture of third lumbar vertebra, initial encounter for closed fracture",Injury or poisoning,200.0,0.235,a
+s32039d,s,"Unspecified fracture of third lumbar vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,50.0,0.02,n
+s32040d,s,"Wedge compression fracture of fourth lumbar vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,17.0,0.0,n
+s32048a,s,"Other fracture of fourth lumbar vertebra, initial encounter for closed fracture",Injury or poisoning,54.0,0.351851851851852,a
+s32048d,s,"Other fracture of fourth lumbar vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,13.0,0.0,n
+s32049a,s,"Unspecified fracture of fourth lumbar vertebra, initial encounter for closed fracture",Injury or poisoning,169.0,0.207100591715976,a
+s32049d,s,"Unspecified fracture of fourth lumbar vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,47.0,0.0212765957446809,n
+s32058a,s,"Other fracture of fifth lumbar vertebra, initial encounter for closed fracture",Injury or poisoning,35.0,0.42857142857142894,a
+s32059a,s,"Unspecified fracture of fifth lumbar vertebra, initial encounter for closed fracture",Injury or poisoning,109.0,0.284403669724771,a
+s32059d,s,"Unspecified fracture of fifth lumbar vertebra, subsequent encounter for fracture with routine healing",Injury or poisoning,29.0,0.0,n
+s32302d,s,"Unspecified fracture of left ilium, subsequent encounter for fracture with routine healing",Injury or poisoning,12.0,0.166666666666667,n
+s32402d,s,"Unspecified fracture of left acetabulum, subsequent encounter for fracture with routine healing",Injury or poisoning,34.0,0.0588235294117647,n
+s32421a,s,"Displaced fracture of posterior wall of right acetabulum, initial encounter for closed fracture",Injury or poisoning,20.0,0.15,a
+s32422a,s,"Displaced fracture of posterior wall of left acetabulum, initial encounter for closed fracture",Injury or poisoning,26.0,0.23076923076923103,a
+s32431a,s,"Displaced fracture of anterior column [iliopubic] of right acetabulum, initial encounter for closed fracture",Injury or poisoning,29.0,0.34482758620689696,a
+s32432a,s,"Displaced fracture of anterior column [iliopubic] of left acetabulum, initial encounter for closed fracture",Injury or poisoning,32.0,0.3125,a
+s32441a,s,"Displaced fracture of posterior column [ilioischial] of right acetabulum, initial encounter for closed fracture",Injury or poisoning,14.0,0.28571428571428603,a
+s32442a,s,"Displaced fracture of posterior column [ilioischial] of left acetabulum, initial encounter for closed fracture",Injury or poisoning,14.0,0.42857142857142894,a
+s32491d,s,"Other specified fracture of right acetabulum, subsequent encounter for fracture with routine healing",Injury or poisoning,10.0,0.0,n
+s32501a,s,"Unspecified fracture of right pubis, initial encounter for closed fracture",Injury or poisoning,42.0,0.19047619047619,a
+s32502a,s,"Unspecified fracture of left pubis, initial encounter for closed fracture",Injury or poisoning,30.0,0.1,a
+s32511d,s,"Fracture of superior rim of right pubis, subsequent encounter for fracture with routine healing",Injury or poisoning,22.0,0.0,n
+s32512a,s,"Fracture of superior rim of left pubis, initial encounter for closed fracture",Injury or poisoning,90.0,0.12222222222222198,a
+s32591d,s,"Other specified fracture of right pubis, subsequent encounter for fracture with routine healing",Injury or poisoning,51.0,0.0196078431372549,n
+s32592a,s,"Other specified fracture of left pubis, initial encounter for closed fracture",Injury or poisoning,293.0,0.139931740614334,a
+s32811a,s,"Multiple fractures of pelvis with unstable disruption of pelvic ring, initial encounter for closed fracture",Injury or poisoning,25.0,0.48,a
+s332xxa,s,"Dislocation of sacroiliac and sacrococcygeal joint, initial encounter",Injury or poisoning,21.0,0.38095238095238104,a
+s334xxa,s,"Traumatic rupture of symphysis pubis, initial encounter",Injury or poisoning,12.0,0.4166666666666671,a
+s36039d,s,"Unspecified laceration of spleen, subsequent encounter",Injury or poisoning,19.0,0.157894736842105,n
+s36113d,s,"Laceration of liver, unspecified degree, subsequent encounter",Injury or poisoning,16.0,0.0,n
+s40021a,s,"Contusion of right upper arm, initial encounter",Injury or poisoning,81.0,0.0493827160493827,a
+s40021d,s,"Contusion of right upper arm, subsequent encounter",Injury or poisoning,14.0,0.0,n
+s40022a,s,"Contusion of left upper arm, initial encounter",Injury or poisoning,85.0,0.0352941176470588,a
+s40022d,s,"Contusion of left upper arm, subsequent encounter",Injury or poisoning,12.0,0.0,n
+s40811a,s,"Abrasion of right upper arm, initial encounter",Injury or poisoning,100.0,0.09,a
+s40811d,s,"Abrasion of right upper arm, subsequent encounter",Injury or poisoning,11.0,0.0,n
+s40812a,s,"Abrasion of left upper arm, initial encounter",Injury or poisoning,123.0,0.0650406504065041,a
+s40812d,s,"Abrasion of left upper arm, subsequent encounter",Injury or poisoning,16.0,0.0,n
+s41111a,s,"Laceration without foreign body of right upper arm, initial encounter",Injury or poisoning,120.0,0.05,a
+s41111d,s,"Laceration without foreign body of right upper arm, subsequent encounter",Injury or poisoning,14.0,0.0,n
+s41112a,s,"Laceration without foreign body of left upper arm, initial encounter",Injury or poisoning,144.0,0.0694444444444444,a
+s41112d,s,"Laceration without foreign body of left upper arm, subsequent encounter",Injury or poisoning,25.0,0.0,n
+s41131a,s,"Puncture wound without foreign body of right upper arm, initial encounter",Injury or poisoning,13.0,0.23076923076923103,a
+s41132a,s,"Puncture wound without foreign body of left upper arm, initial encounter",Injury or poisoning,12.0,0.166666666666667,a
+s42002d,s,"Fracture of unspecified part of left clavicle, subsequent encounter for fracture with routine healing",Injury or poisoning,40.0,0.125,n
+s42101d,s,"Fracture of unspecified part of scapula, right shoulder, subsequent encounter for fracture with routine healing",Injury or poisoning,25.0,0.08,n
+s42102d,s,"Fracture of unspecified part of scapula, left shoulder, subsequent encounter for fracture with routine healing",Injury or poisoning,29.0,0.137931034482759,n
+s5011xa,s,"Contusion of right forearm, initial encounter",Injury or poisoning,35.0,0.0857142857142857,a
+s5012xa,s,"Contusion of left forearm, initial encounter",Injury or poisoning,29.0,0.0,a
+s50811a,s,"Abrasion of right forearm, initial encounter",Injury or poisoning,82.0,0.0487804878048781,a
+s50811d,s,"Abrasion of right forearm, subsequent encounter",Injury or poisoning,15.0,0.0,n
+s50812a,s,"Abrasion of left forearm, initial encounter",Injury or poisoning,90.0,0.0222222222222222,a
+s50812d,s,"Abrasion of left forearm, subsequent encounter",Injury or poisoning,15.0,0.0,n
+s51811a,s,"Laceration without foreign body of right forearm, initial encounter",Injury or poisoning,173.0,0.0867052023121387,a
+s51811d,s,"Laceration without foreign body of right forearm, subsequent encounter",Injury or poisoning,63.0,0.0317460317460317,n
+s51812a,s,"Laceration without foreign body of left forearm, initial encounter",Injury or poisoning,211.0,0.0853080568720379,a
+s51812d,s,"Laceration without foreign body of left forearm, subsequent encounter",Injury or poisoning,117.0,0.00854700854700855,n
+s52201d,s,"Unspecified fracture of shaft of right ulna, subsequent encounter for closed fracture with routine healing",Injury or poisoning,16.0,0.125,n
+s52501b,s,"Unspecified fracture of the lower end of right radius, initial encounter for open fracture type I or II",Injury or poisoning,13.0,0.384615384615385,a
+s52501d,s,"Unspecified fracture of the lower end of right radius, subsequent encounter for closed fracture with routine healing",Injury or poisoning,36.0,0.0555555555555556,n
+s52502a,s,"Unspecified fracture of the lower end of left radius, initial encounter for closed fracture",Injury or poisoning,121.0,0.0991735537190083,a
+s52502b,s,"Unspecified fracture of the lower end of left radius, initial encounter for open fracture type I or II",Injury or poisoning,24.0,0.208333333333333,a
+s52502d,s,"Unspecified fracture of the lower end of left radius, subsequent encounter for closed fracture with routine healing",Injury or poisoning,43.0,0.0465116279069767,n
+s52571a,s,"Other intraarticular fracture of lower end of right radius, initial encounter for closed fracture",Injury or poisoning,65.0,0.23076923076923103,a
+s52601b,s,"Unspecified fracture of lower end of right ulna, initial encounter for open fracture type I or II",Injury or poisoning,15.0,0.2,a
+s52601d,s,"Unspecified fracture of lower end of right ulna, subsequent encounter for closed fracture with routine healing",Injury or poisoning,13.0,0.0,n
+s52602a,s,"Unspecified fracture of lower end of left ulna, initial encounter for closed fracture",Injury or poisoning,45.0,0.0888888888888889,a
+s52602b,s,"Unspecified fracture of lower end of left ulna, initial encounter for open fracture type I or II",Injury or poisoning,15.0,0.133333333333333,a
+s52602d,s,"Unspecified fracture of lower end of left ulna, subsequent encounter for closed fracture with routine healing",Injury or poisoning,14.0,0.0714285714285714,n
+s52611a,s,"Displaced fracture of right ulna styloid process, initial encounter for closed fracture",Injury or poisoning,51.0,0.19607843137254896,a
+s52611d,s,"Displaced fracture of right ulna styloid process, subsequent encounter for closed fracture with routine healing",Injury or poisoning,17.0,0.0,n
+s5291xd,s,"Unspecified fracture of right forearm, subsequent encounter for closed fracture with routine healing",Injury or poisoning,12.0,0.0,n
+s60211a,s,"Contusion of right wrist, initial encounter",Injury or poisoning,13.0,0.0,a
+s60212a,s,"Contusion of left wrist, initial encounter",Injury or poisoning,15.0,0.133333333333333,a
+s60511a,s,"Abrasion of right hand, initial encounter",Injury or poisoning,118.0,0.135593220338983,a
+s60511d,s,"Abrasion of right hand, subsequent encounter",Injury or poisoning,15.0,0.0,n
+s60512a,s,"Abrasion of left hand, initial encounter",Injury or poisoning,108.0,0.12037037037037,a
+s60512d,s,"Abrasion of left hand, subsequent encounter",Injury or poisoning,13.0,0.0,n
+s61211a,s,"Laceration without foreign body of left index finger without damage to nail, initial encounter",Injury or poisoning,32.0,0.15625,a
+s61212a,s,"Laceration without foreign body of right middle finger without damage to nail, initial encounter",Injury or poisoning,27.0,0.111111111111111,a
+s61213a,s,"Laceration without foreign body of left middle finger without damage to nail, initial encounter",Injury or poisoning,26.0,0.153846153846154,a
+s61214a,s,"Laceration without foreign body of right ring finger without damage to nail, initial encounter",Injury or poisoning,21.0,0.19047619047619,a
+s61216a,s,"Laceration without foreign body of right little finger without damage to nail, initial encounter",Injury or poisoning,13.0,0.0769230769230769,a
+s61401a,s,"Unspecified open wound of right hand, initial encounter",Injury or poisoning,12.0,0.0,a
+s61402a,s,"Unspecified open wound of left hand, initial encounter",Injury or poisoning,20.0,0.0,a
+s61511a,s,"Laceration without foreign body of right wrist, initial encounter",Injury or poisoning,76.0,0.0526315789473684,a
+s61511d,s,"Laceration without foreign body of right wrist, subsequent encounter",Injury or poisoning,30.0,0.0,n
+s61512a,s,"Laceration without foreign body of left wrist, initial encounter",Injury or poisoning,130.0,0.0615384615384615,a
+s61512d,s,"Laceration without foreign body of left wrist, subsequent encounter",Injury or poisoning,64.0,0.0,n
+s6401xa,s,"Injury of ulnar nerve at wrist and hand level of right arm, initial encounter",Injury or poisoning,11.0,0.272727272727273,a
+s6412xa,s,"Injury of median nerve at wrist and hand level of left arm, initial encounter",Injury or poisoning,12.0,0.25,a
+s6421xa,s,"Injury of radial nerve at wrist and hand level of right arm, initial encounter",Injury or poisoning,10.0,0.5,a
+s66822a,s,"Laceration of other specified muscles, fascia and tendons at wrist and hand level, left hand, initial encounter",Injury or poisoning,16.0,0.125,a
+s70211a,s,"Abrasion, right hip, initial encounter",Injury or poisoning,31.0,0.0967741935483871,a
+s70212a,s,"Abrasion, left hip, initial encounter",Injury or poisoning,25.0,0.2,a
+s70311a,s,"Abrasion, right thigh, initial encounter",Injury or poisoning,23.0,0.0434782608695652,a
+s70312a,s,"Abrasion, left thigh, initial encounter",Injury or poisoning,26.0,0.0384615384615385,a
+s71111d,s,"Laceration without foreign body, right thigh, subsequent encounter",Injury or poisoning,19.0,0.0,n
+s71112d,s,"Laceration without foreign body, left thigh, subsequent encounter",Injury or poisoning,12.0,0.0,n
+s72351d,s,"Displaced comminuted fracture of shaft of right femur, subsequent encounter for closed fracture with routine healing",Injury or poisoning,10.0,0.0,n
+s72401d,s,"Unspecified fracture of lower end of right femur, subsequent encounter for closed fracture with routine healing",Injury or poisoning,27.0,0.111111111111111,n
+s72402d,s,"Unspecified fracture of lower end of left femur, subsequent encounter for closed fracture with routine healing",Injury or poisoning,18.0,0.0555555555555556,n
+s7291xd,s,"Unspecified fracture of right femur, subsequent encounter for closed fracture with routine healing",Injury or poisoning,31.0,0.0645161290322581,n
+s7292xd,s,"Unspecified fracture of left femur, subsequent encounter for closed fracture with routine healing",Injury or poisoning,31.0,0.0967741935483871,n
+s73014a,s,"Posterior dislocation of right hip, initial encounter",Injury or poisoning,20.0,0.15,a
+s73015a,s,"Posterior dislocation of left hip, initial encounter",Injury or poisoning,20.0,0.45,a
+s8001xa,s,"Contusion of right knee, initial encounter",Injury or poisoning,180.0,0.0388888888888889,a
+s8001xd,s,"Contusion of right knee, subsequent encounter",Injury or poisoning,16.0,0.0,n
+s8002xa,s,"Contusion of left knee, initial encounter",Injury or poisoning,174.0,0.0459770114942529,a
+s8002xd,s,"Contusion of left knee, subsequent encounter",Injury or poisoning,18.0,0.0,n
+s8011xa,s,"Contusion of right lower leg, initial encounter",Injury or poisoning,123.0,0.024390243902439,a
+s8011xd,s,"Contusion of right lower leg, subsequent encounter",Injury or poisoning,20.0,0.0,n
+s8012xa,s,"Contusion of left lower leg, initial encounter",Injury or poisoning,134.0,0.0895522388059701,a
+s8012xd,s,"Contusion of left lower leg, subsequent encounter",Injury or poisoning,21.0,0.0,n
+s80211a,s,"Abrasion, right knee, initial encounter",Injury or poisoning,327.0,0.0886850152905199,a
+s80211d,s,"Abrasion, right knee, subsequent encounter",Injury or poisoning,26.0,0.0384615384615385,n
+s80212a,s,"Abrasion, left knee, initial encounter",Injury or poisoning,348.0,0.0804597701149425,a
+s80212d,s,"Abrasion, left knee, subsequent encounter",Injury or poisoning,26.0,0.0,n
+s80811a,s,"Abrasion, right lower leg, initial encounter",Injury or poisoning,120.0,0.0416666666666667,a
+s80811d,s,"Abrasion, right lower leg, subsequent encounter",Injury or poisoning,20.0,0.0,n
+s80812a,s,"Abrasion, left lower leg, initial encounter",Injury or poisoning,127.0,0.0393700787401575,a
+s80812d,s,"Abrasion, left lower leg, subsequent encounter",Injury or poisoning,22.0,0.0,n
+s80921a,s,"Unspecified superficial injury of right lower leg, initial encounter",Injury or poisoning,10.0,0.1,a
+s80922a,s,"Unspecified superficial injury of left lower leg, initial encounter",Injury or poisoning,12.0,0.0833333333333333,a
+s81001a,s,"Unspecified open wound, right knee, initial encounter",Injury or poisoning,16.0,0.0,a
+s81001d,s,"Unspecified open wound, right knee, subsequent encounter",Injury or poisoning,10.0,0.0,n
+s81002a,s,"Unspecified open wound, left knee, initial encounter",Injury or poisoning,11.0,0.0909090909090909,a
+s81002d,s,"Unspecified open wound, left knee, subsequent encounter",Injury or poisoning,10.0,0.0,n
+s81011a,s,"Laceration without foreign body, right knee, initial encounter",Injury or poisoning,78.0,0.12820512820512803,a
+s81012a,s,"Laceration without foreign body, left knee, initial encounter",Injury or poisoning,68.0,0.17647058823529396,a
+s81801a,s,"Unspecified open wound, right lower leg, initial encounter",Injury or poisoning,63.0,0.0793650793650794,a
+s81802a,s,"Unspecified open wound, left lower leg, initial encounter",Injury or poisoning,71.0,0.0140845070422535,a
+s81811a,s,"Laceration without foreign body, right lower leg, initial encounter",Injury or poisoning,94.0,0.07446808510638299,a
+s81811d,s,"Laceration without foreign body, right lower leg, subsequent encounter",Injury or poisoning,31.0,0.0,n
+s81812a,s,"Laceration without foreign body, left lower leg, initial encounter",Injury or poisoning,111.0,0.045045045045045,a
+s81812d,s,"Laceration without foreign body, left lower leg, subsequent encounter",Injury or poisoning,34.0,0.0,n
+s82201b,s,"Unspecified fracture of shaft of right tibia, initial encounter for open fracture type I or II",Injury or poisoning,34.0,0.23529411764705901,a
+s82201d,s,"Unspecified fracture of shaft of right tibia, subsequent encounter for closed fracture with routine healing",Injury or poisoning,19.0,0.10526315789473699,n
+s82201e,s,"Unspecified fracture of shaft of right tibia, subsequent encounter for open fracture type I or II with routine healing",Injury or poisoning,11.0,0.0,n
+s82202a,s,"Unspecified fracture of shaft of left tibia, initial encounter for closed fracture",Injury or poisoning,58.0,0.155172413793103,a
+s82202b,s,"Unspecified fracture of shaft of left tibia, initial encounter for open fracture type I or II",Injury or poisoning,31.0,0.387096774193548,a
+s82202d,s,"Unspecified fracture of shaft of left tibia, subsequent encounter for closed fracture with routine healing",Injury or poisoning,25.0,0.08,n
+s82202e,s,"Unspecified fracture of shaft of left tibia, subsequent encounter for open fracture type I or II with routine healing",Injury or poisoning,12.0,0.0,n
+s82251a,s,"Displaced comminuted fracture of shaft of right tibia, initial encounter for closed fracture",Injury or poisoning,42.0,0.14285714285714302,a
+s82251b,s,"Displaced comminuted fracture of shaft of right tibia, initial encounter for open fracture type I or II",Injury or poisoning,19.0,0.368421052631579,a
+s82252a,s,"Displaced comminuted fracture of shaft of left tibia, initial encounter for closed fracture",Injury or poisoning,35.0,0.2,a
+s82252b,s,"Displaced comminuted fracture of shaft of left tibia, initial encounter for open fracture type I or II",Injury or poisoning,11.0,0.272727272727273,a
+s82301b,s,"Unspecified fracture of lower end of right tibia, initial encounter for open fracture type I or II",Injury or poisoning,10.0,0.3,a
+s82401b,s,"Unspecified fracture of shaft of right fibula, initial encounter for open fracture type I or II",Injury or poisoning,28.0,0.28571428571428603,a
+s82401d,s,"Unspecified fracture of shaft of right fibula, subsequent encounter for closed fracture with routine healing",Injury or poisoning,33.0,0.0909090909090909,n
+s82401e,s,"Unspecified fracture of shaft of right fibula, subsequent encounter for open fracture type I or II with routine healing",Injury or poisoning,10.0,0.1,n
+s82402a,s,"Unspecified fracture of shaft of left fibula, initial encounter for closed fracture",Injury or poisoning,50.0,0.12,a
+s82402b,s,"Unspecified fracture of shaft of left fibula, initial encounter for open fracture type I or II",Injury or poisoning,23.0,0.21739130434782603,a
+s82402d,s,"Unspecified fracture of shaft of left fibula, subsequent encounter for closed fracture with routine healing",Injury or poisoning,30.0,0.1,n
+s82402e,s,"Unspecified fracture of shaft of left fibula, subsequent encounter for open fracture type I or II with routine healing",Injury or poisoning,10.0,0.0,n
+s82451a,s,"Displaced comminuted fracture of shaft of right fibula, initial encounter for closed fracture",Injury or poisoning,43.0,0.232558139534884,a
+s82451b,s,"Displaced comminuted fracture of shaft of right fibula, initial encounter for open fracture type I or II",Injury or poisoning,13.0,0.23076923076923103,a
+s82452a,s,"Displaced comminuted fracture of shaft of left fibula, initial encounter for closed fracture",Injury or poisoning,42.0,0.14285714285714302,a
+s82452b,s,"Displaced comminuted fracture of shaft of left fibula, initial encounter for open fracture type I or II",Injury or poisoning,10.0,0.2,a
+s82831b,s,"Other fracture of upper and lower end of right fibula, initial encounter for open fracture type I or II",Injury or poisoning,19.0,0.47368421052631604,a
+s83241a,s,"Other tear of medial meniscus, current injury, right knee, initial encounter",Injury or poisoning,13.0,0.23076923076923103,a
+s83281a,s,"Other tear of lateral meniscus, current injury, right knee, initial encounter",Injury or poisoning,22.0,0.272727272727273,a
+s83411a,s,"Sprain of medial collateral ligament of right knee, initial encounter",Injury or poisoning,16.0,0.4375,a
+s83511a,s,"Sprain of anterior cruciate ligament of right knee, initial encounter",Injury or poisoning,15.0,0.4,a
+s9001xa,s,"Contusion of right ankle, initial encounter",Injury or poisoning,10.0,0.0,a
+s9002xa,s,"Contusion of left ankle, initial encounter",Injury or poisoning,18.0,0.166666666666667,a
+s90511a,s,"Abrasion, right ankle, initial encounter",Injury or poisoning,19.0,0.0,a
+s90512a,s,"Abrasion, left ankle, initial encounter",Injury or poisoning,23.0,0.0434782608695652,a
+s90811a,s,"Abrasion, right foot, initial encounter",Injury or poisoning,25.0,0.08,a
+s90812a,s,"Abrasion, left foot, initial encounter",Injury or poisoning,16.0,0.1875,a
+s90821a,s,"Blister (nonthermal), right foot, initial encounter",Injury or poisoning,56.0,0.0178571428571429,a
+s90822a,s,"Blister (nonthermal), left foot, initial encounter",Injury or poisoning,63.0,0.0158730158730159,a
+s91301a,s,"Unspecified open wound, right foot, initial encounter",Injury or poisoning,41.0,0.0731707317073171,a
+s91302a,s,"Unspecified open wound, left foot, initial encounter",Injury or poisoning,39.0,0.0,a
+s92022a,s,"Displaced fracture of anterior process of left calcaneus, initial encounter for closed fracture",Injury or poisoning,10.0,0.2,a
+s92061a,s,"Displaced intraarticular fracture of right calcaneus, initial encounter for closed fracture",Injury or poisoning,10.0,0.2,a
+s92062a,s,"Displaced intraarticular fracture of left calcaneus, initial encounter for closed fracture",Injury or poisoning,10.0,0.1,a
+s92211a,s,"Displaced fracture of cuboid bone of right foot, initial encounter for closed fracture",Injury or poisoning,25.0,0.2,a
+s92212a,s,"Displaced fracture of cuboid bone of left foot, initial encounter for closed fracture",Injury or poisoning,12.0,0.0833333333333333,a
+s92251a,s,"Displaced fracture of navicular [scaphoid] of right foot, initial encounter for closed fracture",Injury or poisoning,18.0,0.111111111111111,a
+s92252a,s,"Displaced fracture of navicular [scaphoid] of left foot, initial encounter for closed fracture",Injury or poisoning,10.0,0.2,a
+s92311a,s,"Displaced fracture of first metatarsal bone, right foot, initial encounter for closed fracture",Injury or poisoning,23.0,0.21739130434782603,a
+s92312a,s,"Displaced fracture of first metatarsal bone, left foot, initial encounter for closed fracture",Injury or poisoning,13.0,0.307692307692308,a
+s92321a,s,"Displaced fracture of second metatarsal bone, right foot, initial encounter for closed fracture",Injury or poisoning,39.0,0.20512820512820498,a
+s92322a,s,"Displaced fracture of second metatarsal bone, left foot, initial encounter for closed fracture",Injury or poisoning,38.0,0.10526315789473699,a
+s92331a,s,"Displaced fracture of third metatarsal bone, right foot, initial encounter for closed fracture",Injury or poisoning,38.0,0.21052631578947398,a
+s92332a,s,"Displaced fracture of third metatarsal bone, left foot, initial encounter for closed fracture",Injury or poisoning,32.0,0.125,a
+s92341a,s,"Displaced fracture of fourth metatarsal bone, right foot, initial encounter for closed fracture",Injury or poisoning,28.0,0.14285714285714302,a
+s92342a,s,"Displaced fracture of fourth metatarsal bone, left foot, initial encounter for closed fracture",Injury or poisoning,31.0,0.0,a
+s92344a,s,"Nondisplaced fracture of fourth metatarsal bone, right foot, initial encounter for closed fracture",Injury or poisoning,12.0,0.0833333333333333,a
+s92351a,s,"Displaced fracture of fifth metatarsal bone, right foot, initial encounter for closed fracture",Injury or poisoning,38.0,0.131578947368421,a
+s92352a,s,"Displaced fracture of fifth metatarsal bone, left foot, initial encounter for closed fracture",Injury or poisoning,37.0,0.135135135135135,a
+s92354a,s,"Nondisplaced fracture of fifth metatarsal bone, right foot, initial encounter for closed fracture",Injury or poisoning,12.0,0.0833333333333333,a
+s93324a,s,"Dislocation of tarsometatarsal joint of right foot, initial encounter",Injury or poisoning,15.0,0.266666666666667,a
+t184xxa,t,"Foreign body in colon, initial encounter",Injury or poisoning,28.0,0.0357142857142857,a
+t185xxa,t,"Foreign body in anus and rectum, initial encounter",Injury or poisoning,21.0,0.0476190476190476,a
+t2020xa,t,"Burn of second degree of head, face, and neck, unspecified site, initial encounter",Injury or poisoning,12.0,0.166666666666667,a
+t2024xa,t,"Burn of second degree of nose (septum), initial encounter",Injury or poisoning,22.0,0.545454545454545,a
+t2026xa,t,"Burn of second degree of forehead and cheek, initial encounter",Injury or poisoning,30.0,0.5,a
+t2027xa,t,"Burn of second degree of neck, initial encounter",Injury or poisoning,20.0,0.5,a
+t2029xa,t,"Burn of second degree of multiple sites of head, face, and neck, initial encounter",Injury or poisoning,10.0,0.5,a
+t2037xa,t,"Burn of third degree of neck, initial encounter",Injury or poisoning,11.0,0.818181818181818,a
+t2121xa,t,"Burn of second degree of chest wall, initial encounter",Injury or poisoning,33.0,0.272727272727273,a
+t2122xa,t,"Burn of second degree of abdominal wall, initial encounter",Injury or poisoning,34.0,0.23529411764705901,a
+t2123xa,t,"Burn of second degree of upper back, initial encounter",Injury or poisoning,19.0,0.263157894736842,a
+t2124xa,t,"Burn of second degree of lower back, initial encounter",Injury or poisoning,26.0,0.23076923076923103,a
+t2125xa,t,"Burn of second degree of buttock, initial encounter",Injury or poisoning,20.0,0.1,a
+t2131xa,t,"Burn of third degree of chest wall, initial encounter",Injury or poisoning,18.0,0.666666666666667,a
+t2132xa,t,"Burn of third degree of abdominal wall, initial encounter",Injury or poisoning,21.0,0.5714285714285711,a
+t2133xa,t,"Burn of third degree of upper back, initial encounter",Injury or poisoning,16.0,0.75,a
+t2134xa,t,"Burn of third degree of lower back, initial encounter",Injury or poisoning,21.0,0.80952380952381,a
+t2135xa,t,"Burn of third degree of buttock, initial encounter",Injury or poisoning,24.0,0.583333333333333,a
+t22211a,t,"Burn of second degree of right forearm, initial encounter",Injury or poisoning,36.0,0.36111111111111105,a
+t22212a,t,"Burn of second degree of left forearm, initial encounter",Injury or poisoning,28.0,0.25,a
+t22231a,t,"Burn of second degree of right upper arm, initial encounter",Injury or poisoning,37.0,0.297297297297297,a
+t22232a,t,"Burn of second degree of left upper arm, initial encounter",Injury or poisoning,30.0,0.33333333333333304,a
+t22311a,t,"Burn of third degree of right forearm, initial encounter",Injury or poisoning,22.0,0.6363636363636359,a
+t22312a,t,"Burn of third degree of left forearm, initial encounter",Injury or poisoning,26.0,0.7307692307692311,a
+t22322a,t,"Burn of third degree of left elbow, initial encounter",Injury or poisoning,13.0,0.8461538461538459,a
+t22331a,t,"Burn of third degree of right upper arm, initial encounter",Injury or poisoning,18.0,0.5,a
+t22332a,t,"Burn of third degree of left upper arm, initial encounter",Injury or poisoning,21.0,0.7142857142857142,a
+t23201a,t,"Burn of second degree of right hand, unspecified site, initial encounter",Injury or poisoning,10.0,0.1,a
+t23202a,t,"Burn of second degree of left hand, unspecified site, initial encounter",Injury or poisoning,12.0,0.166666666666667,a
+t23241a,t,"Burn of second degree of multiple right fingers (nail), including thumb, initial encounter",Injury or poisoning,12.0,0.5,a
+t23242a,t,"Burn of second degree of multiple left fingers (nail), including thumb, initial encounter",Injury or poisoning,11.0,0.545454545454545,a
+t23251a,t,"Burn of second degree of right palm, initial encounter",Injury or poisoning,17.0,0.294117647058824,a
+t23252a,t,"Burn of second degree of left palm, initial encounter",Injury or poisoning,15.0,0.33333333333333304,a
+t23261a,t,"Burn of second degree of back of right hand, initial encounter",Injury or poisoning,21.0,0.33333333333333304,a
+t23262a,t,"Burn of second degree of back of left hand, initial encounter",Injury or poisoning,13.0,0.538461538461538,a
+t23341a,t,"Burn of third degree of multiple right fingers (nail), including thumb, initial encounter",Injury or poisoning,12.0,0.75,a
+t23342a,t,"Burn of third degree of multiple left fingers (nail), including thumb, initial encounter",Injury or poisoning,18.0,0.833333333333333,a
+t23351a,t,"Burn of third degree of right palm, initial encounter",Injury or poisoning,11.0,0.45454545454545503,a
+t23352a,t,"Burn of third degree of left palm, initial encounter",Injury or poisoning,15.0,0.8,a
+t23361a,t,"Burn of third degree of back of right hand, initial encounter",Injury or poisoning,18.0,0.666666666666667,a
+t23362a,t,"Burn of third degree of back of left hand, initial encounter",Injury or poisoning,15.0,0.933333333333333,a
+t23372a,t,"Burn of third degree of left wrist, initial encounter",Injury or poisoning,10.0,0.9,a
+t24211a,t,"Burn of second degree of right thigh, initial encounter",Injury or poisoning,29.0,0.103448275862069,a
+t24212a,t,"Burn of second degree of left thigh, initial encounter",Injury or poisoning,29.0,0.137931034482759,a
+t24231a,t,"Burn of second degree of right lower leg, initial encounter",Injury or poisoning,21.0,0.14285714285714302,a
+t24232a,t,"Burn of second degree of left lower leg, initial encounter",Injury or poisoning,15.0,0.133333333333333,a
+t24311a,t,"Burn of third degree of right thigh, initial encounter",Injury or poisoning,28.0,0.6785714285714289,a
+t24312a,t,"Burn of third degree of left thigh, initial encounter",Injury or poisoning,28.0,0.6071428571428571,a
+t24321a,t,"Burn of third degree of right knee, initial encounter",Injury or poisoning,10.0,0.7,a
+t24322a,t,"Burn of third degree of left knee, initial encounter",Injury or poisoning,12.0,0.666666666666667,a
+t24331a,t,"Burn of third degree of right lower leg, initial encounter",Injury or poisoning,26.0,0.5,a
+t24332a,t,"Burn of third degree of left lower leg, initial encounter",Injury or poisoning,24.0,0.583333333333333,a
+t25221a,t,"Burn of second degree of right foot, initial encounter",Injury or poisoning,24.0,0.125,a
+t25222a,t,"Burn of second degree of left foot, initial encounter",Injury or poisoning,29.0,0.103448275862069,a
+t25321a,t,"Burn of third degree of right foot, initial encounter",Injury or poisoning,22.0,0.18181818181818202,a
+t25322a,t,"Burn of third degree of left foot, initial encounter",Injury or poisoning,14.0,0.28571428571428603,a
+t25331a,t,"Burn of third degree of right toe(s) (nail), initial encounter",Injury or poisoning,10.0,0.5,a
+t300,t,"Burn of unspecified body region, unspecified degree",Injury or poisoning,61.0,0.344262295081967,a
+t3110,t,Burns involving 10-19% of body surface with 0% to 9% third degree burns,Injury or poisoning,40.0,0.375,a
+t3111,t,Burns involving 10-19% of body surface with 10-19% third degree burns,Injury or poisoning,29.0,0.517241379310345,a
+t3120,t,Burns involving 20-29% of body surface with 0% to 9% third degree burns,Injury or poisoning,26.0,0.576923076923077,a
+t3695xa,t,"Adverse effect of unspecified systemic antibiotic, initial encounter",Injury or poisoning,269.0,0.0669144981412639,a
+t380x5a,t,"Adverse effect of glucocorticoids and synthetic analogues, initial encounter",Injury or poisoning,4093.0,0.123137063278769,a
+t381x5a,t,"Adverse effect of thyroid hormones and substitutes, initial encounter",Injury or poisoning,20.0,0.0,a
+t383x6a,t,"Underdosing of insulin and oral hypoglycemic [antidiabetic] drugs, initial encounter",Injury or poisoning,359.0,0.0167130919220056,n
+t39015a,t,"Adverse effect of aspirin, initial encounter",Injury or poisoning,70.0,0.0285714285714286,a
+t39016a,t,"Underdosing of aspirin, initial encounter",Injury or poisoning,22.0,0.0454545454545455,n
+t391x2d,t,"Poisoning by 4-Aminophenol derivatives, intentional self-harm, subsequent encounter",Injury or poisoning,19.0,0.0,n
+t39312d,t,"Poisoning by propionic acid derivatives, intentional self-harm, subsequent encounter",Injury or poisoning,11.0,0.0,n
+t402x5a,t,"Adverse effect of other opioids, initial encounter",Injury or poisoning,1371.0,0.11743253099927099,a
+t40605a,t,"Adverse effect of unspecified narcotics, initial encounter",Injury or poisoning,654.0,0.119266055045872,a
+t410x5a,t,"Adverse effect of inhaled anesthetics, initial encounter",Injury or poisoning,13.0,0.307692307692308,a
+t43221a,t,"Poisoning by selective serotonin reuptake inhibitors, accidental (unintentional), initial encounter",Injury or poisoning,12.0,0.0,a
+t43291a,t,"Poisoning by other antidepressants, accidental (unintentional), initial encounter",Injury or poisoning,11.0,0.0,a
+t434x6a,t,"Underdosing of butyrophenone and thiothixene neuroleptics, initial encounter",Injury or poisoning,13.0,0.0,n
+t43596a,t,"Underdosing of other antipsychotics and neuroleptics, initial encounter",Injury or poisoning,220.0,0.0,n
+t443x6a,t,"Underdosing of other parasympatholytics [anticholinergics and antimuscarinics] and spasmolytics, initial encounter",Injury or poisoning,18.0,0.0,n
+t451x5a,t,"Adverse effect of antineoplastic and immunosuppressive drugs, initial encounter",Injury or poisoning,3781.0,0.09309706426871199,a
+t452x5a,t,"Adverse effect of vitamins, initial encounter",Injury or poisoning,12.0,0.0,a
+t45515a,t,"Adverse effect of anticoagulants, initial encounter",Injury or poisoning,1380.0,0.0811594202898551,a
+t45525a,t,"Adverse effect of antithrombotic drugs, initial encounter",Injury or poisoning,155.0,0.0774193548387097,a
+t45526a,t,"Underdosing of antithrombotic drugs, initial encounter",Injury or poisoning,21.0,0.0,n
+t463x5a,t,"Adverse effect of coronary vasodilators, initial encounter",Injury or poisoning,43.0,0.13953488372093,a
+t464x5a,t,"Adverse effect of angiotensin-converting-enzyme inhibitors, initial encounter",Injury or poisoning,291.0,0.0584192439862543,a
+t464x6a,t,"Underdosing of angiotensin-converting-enzyme inhibitors, initial encounter",Injury or poisoning,50.0,0.04,n
+t466x6a,t,"Underdosing of antihyperlipidemic and antiarteriosclerotic drugs, initial encounter",Injury or poisoning,17.0,0.0,n
+t508x5a,t,"Adverse effect of diagnostic agents, initial encounter",Injury or poisoning,613.0,0.19412724306688398,a
+t59811a,t,"Toxic effect of smoke, accidental (unintentional), initial encounter",Injury or poisoning,26.0,0.269230769230769,a
+t783xxa,t,"Angioneurotic edema, initial encounter",Injury or poisoning,210.0,0.11904761904761901,a
+t82867a,t,"Thrombosis due to cardiac prosthetic devices, implants and grafts, initial encounter",Injury or poisoning,117.0,0.273504273504274,a
+t82868d,t,"Thrombosis due to vascular prosthetic devices, implants and grafts, subsequent encounter",Injury or poisoning,15.0,0.2,n
+t865,t,Complications of stem cell transplant,Injury or poisoning,114.0,0.12280701754386,b
+t8743,t,"Infection of amputation stump, right lower extremity",Injury or poisoning,148.0,0.0878378378378378,c
+t8781,t,Dehiscence of amputation stump,Injury or poisoning,150.0,0.1,c
+z006,z,Encounter for examination for normal comparison and control in clinical research program,Other health services,1989.0,0.413775766716943,n
+z051,z,Observation and evaluation of newborn for suspected infectious condition ruled out,Other health services,4328.0,0.0667744916820702,n
+z111,z,Encounter for screening for respiratory tuberculosis,Other health services,761.0,0.0302233902759527,n
+z13228,z,Encounter for screening for other metabolic disorders,Other health services,1049.0,0.0038131553860819797,n
+z139,z,"Encounter for screening, unspecified",Other health services,350.0,0.00285714285714286,n
+z20818,z,Contact with and (suspected) exposure to other bacterial communicable diseases,Other health services,1117.0,0.007162041181736791,n
+z23,z,Encounter for immunization,Other health services,42832.0,0.0269424729174449,n
+z302,z,Encounter for sterilization,Other health services,1828.0,0.00164113785557987,n
+z3a01,z,Less than 8 weeks gestation of pregnancy,Other health services,91.0,0.010989010989011,a
+z3a08,z,8 weeks gestation of pregnancy,Other health services,45.0,0.0222222222222222,a
+z3a09,z,9 weeks gestation of pregnancy,Other health services,40.0,0.0,a
+z3a12,z,12 weeks gestation of pregnancy,Other health services,30.0,0.0,a
+z3a36,z,36 weeks gestation of pregnancy,Other health services,1452.0,0.0,a
+z3a38,z,38 weeks gestation of pregnancy,Other health services,6542.0,0.000458575359217365,a
+z3a39,z,39 weeks gestation of pregnancy,Other health services,14258.0,7.01360639640903e-05,a
+z3a40,z,40 weeks gestation of pregnancy,Other health services,6347.0,0.0,a
+z3a41,z,41 weeks gestation of pregnancy,Other health services,1611.0,0.0,a
+z370,z,Single live birth,Other health services,35075.0,0.00059871703492516,a
+z371,z,Single stillbirth,Other health services,292.0,0.00342465753424658,a
+z372,z,"Twins, both liveborn",Other health services,539.0,0.00185528756957328,a
+z3800,z,"Single liveborn infant, delivered vaginally",Other health services,25401.0,0.00488169757096177,a
+z3801,z,"Single liveborn infant, delivered by cesarean",Other health services,9620.0,0.0266112266112266,a
+z3831,z,"Twin liveborn infant, delivered by cesarean",Other health services,834.0,0.109112709832134,a
+z430,z,Encounter for attention to tracheostomy,Other health services,652.0,0.47085889570552103,c
+z431,z,Encounter for attention to gastrostomy,Other health services,736.0,0.342391304347826,c
+z4781,z,Encounter for orthopedic aftercare following surgical amputation,Other health services,253.0,0.00790513833992095,c
+z5111,z,Encounter for antineoplastic chemotherapy,Other health services,1225.0,0.0922448979591837,c
+z515,z,Encounter for palliative care,Other health services,11180.0,0.153398926654741,n
+z560,z,"Unemployment, unspecified",Other health services,5027.0,0.0057688482196140796,n
+z590,z,Homelessness,Other health services,11127.0,0.0153680237260717,n
+z599,z,"Problem related to housing and economic circumstances, unspecified",Other health services,439.0,0.020501138952164,n
+z609,z,"Problem related to social environment, unspecified",Other health services,847.0,0.0295159386068477,n
+z62810,z,Personal history of physical and sexual abuse in childhood,Other health services,4978.0,0.0030132583366814,n
+z62811,z,Personal history of psychological abuse in childhood,Other health services,2680.0,0.0007462686567164179,n
+z62812,z,Personal history of neglect in childhood,Other health services,639.0,0.0,n
+z639,z,"Problem related to primary support group, unspecified",Other health services,499.0,0.00200400801603206,n
+z653,z,Problems related to other legal circumstances,Other health services,1329.0,0.018811136192625998,n
+z66,z,Do not resuscitate,Other health services,24230.0,0.0970284770945109,n
+z6711,z,"Type A blood, Rh negative",Other health services,350.0,0.0,n
+z6741,z,"Type O blood, Rh negative",Other health services,470.0,0.0,n
+z681,z,"Body mass index [BMI] 19.9 or less, adult",Other health services,6029.0,0.0859180626969647,n
+z6841,z,"Body mass index [BMI]40.0-44.9, adult",Other health services,7350.0,0.0802721088435374,c
+z6842,z,"Body mass index [BMI] 45.0-49.9, adult",Other health services,3708.0,0.0784789644012945,c
+z7409,z,Other reduced mobility,Other health services,657.0,0.0319634703196347,n
+z741,z,Need for assistance with personal care,Other health services,174.0,0.0517241379310345,n
+z7901,z,Long term (current) use of anticoagulants,Other health services,31513.0,0.0686066067971948,n
+z7902,z,Long term (current) use of antithrombotics/antiplatelets,Other health services,14637.0,0.0891576142652183,n
+z794,z,Long term (current) use of insulin,Other health services,30844.0,0.0666580210089483,n
+z7982,z,Long term (current) use of aspirin,Other health services,50588.0,0.070135209931209,n
+z7984,z,Long term (current) use of oral hypoglycemic drugs,Other health services,23949.0,0.0605035700864337,n
+z79890,z,Hormone replacement therapy,Other health services,12406.0,0.0518297597936482,n
+z79899,z,Other long term (current) drug therapy,Other health services,88387.0,0.0562413024539808,n
+z8249,z,Family history of ischemic heart disease and other diseases of the circulatory system,Other health services,10578.0,0.0508602760446209,n
+z833,z,Family history of diabetes mellitus,Other health services,7037.0,0.0341054426602245,n
+z85028,z,Personal history of other malignant neoplasm of stomach,Other health services,199.0,0.0402010050251256,n
+z8507,z,Personal history of malignant neoplasm of pancreas,Other health services,279.0,0.046594982078853,n
+z85118,z,Personal history of other malignant neoplasm of bronchus and lung,Other health services,1608.0,0.0509950248756219,n
+z85528,z,Personal history of other malignant neoplasm of kidney,Other health services,1372.0,0.0612244897959184,n
+z85850,z,Personal history of malignant neoplasm of thyroid,Other health services,804.0,0.0509950248756219,n
+z86711,z,Personal history of pulmonary embolism,Other health services,6868.0,0.045719277810134004,n
+z86718,z,Personal history of other venous thrombosis and embolism,Other health services,10477.0,0.0481053736756705,n
+z87891,z,Personal history of nicotine dependence,Other health services,62526.0,0.0584077023958033,n
+z885,z,Allergy status to narcotic agent,Other health services,8448.0,0.0268702651515152,n
+z888,z,"Allergy status to other drugs, medicaments and biological substances",Other health services,8882.0,0.0307363206485026,n
+z89511,z,Acquired absence of right leg below knee,Other health services,1092.0,0.0677655677655678,c
+z89512,z,Acquired absence of left leg below knee,Other health services,1065.0,0.0488262910798122,c
+z89611,z,Acquired absence of right leg above knee,Other health services,477.0,0.0545073375262055,c
+z89612,z,Acquired absence of left leg above knee,Other health services,470.0,0.0680851063829787,c
+z902,z,Acquired absence of lung [part of],Other health services,845.0,0.050887573964497,n
+z903,z,Acquired absence of stomach [part of],Other health services,292.0,0.0376712328767123,n
+z90410,z,Acquired total absence of pancreas,Other health services,27.0,0.037037037037037,c
+z90411,z,Acquired partial absence of pancreas,Other health services,309.0,0.0679611650485437,c
+z905,z,Acquired absence of kidney,Other health services,2244.0,0.0459001782531194,n
+z91128,z,Patient's intentional underdosing of medication regimen for other reason,Other health services,669.0,0.0134529147982063,n
+z91410,z,Personal history of adult physical and sexual abuse,Other health services,1462.0,0.00410396716826265,n
+z91411,z,Personal history of adult psychological abuse,Other health services,582.0,0.00171821305841924,n
+z915,z,Personal history of self-harm,Other health services,12383.0,0.00565291124929339,n
+z9221,z,Personal history of antineoplastic chemotherapy,Other health services,5635.0,0.0667258207630878,n
+z923,z,Personal history of irradiation,Other health services,5816.0,0.0667125171939477,n
+z930,z,Tracheostomy status,Other health services,1081.0,0.12395929694727101,c
+z931,z,Gastrostomy status,Other health services,2100.0,0.10142857142857101,c
+z950,z,Presence of cardiac pacemaker,Other health services,8320.0,0.0519230769230769,c
+z951,z,Presence of aortocoronary bypass graft,Other health services,11462.0,0.0573198394695516,n
+z955,z,Presence of coronary angioplasty implant and graft,Other health services,14559.0,0.0605810838656501,n
+z95810,z,Presence of automatic (implantable) cardiac defibrillator,Other health services,4461.0,0.0587312261824703,c
+z95811,z,Presence of heart assist device,Other health services,164.0,0.128048780487805,c
+z961,z,Presence of intraocular lens,Other health services,386.0,0.038860103626943004,c
+z96611,z,Presence of right artificial shoulder joint,Other health services,662.0,0.0422960725075529,c
+z96612,z,Presence of left artificial shoulder joint,Other health services,513.0,0.0565302144249513,c
+z982,z,Presence of cerebrospinal fluid drainage device,Other health services,1100.0,0.0809090909090909,c
+z9841,z,"Cataract extraction status, right eye",Other health services,319.0,0.0564263322884013,n
+z9842,z,"Cataract extraction status, left eye",Other health services,325.0,0.0646153846153846,n
+z9849,z,"Cataract extraction status, unspecified eye",Other health services,423.0,0.0189125295508274,n
+z9911,z,Dependence on respirator [ventilator] status,Other health services,1712.0,0.5046728971962621,c
+z992,z,Dependence on renal dialysis,Other health services,9692.0,0.0995666529096162,c
+z9981,z,Dependence on supplemental oxygen,Other health services,12713.0,0.0600173051207425,c
+u071,u,COVID-19,Special,6427.0,0.13349929982884698,a
