@@ -184,7 +184,7 @@ i4891,i,Unspecified atrial fibrillation,Diseases of the circulatory system,17983
 i4901,i,Ventricular fibrillation,Diseases of the circulatory system,964,0.317427386,c
 i495,i,Sick sinus syndrome,Diseases of the circulatory system,3200,0.0903125,c
 i5022,i,Chronic systolic (congestive) heart failure,Diseases of the circulatory system,6162,0.089905875,c
-i5023,i,Acute on chronic systolic (congestive) heart failure,Diseases of the circulatory system,7056,0.110827664,b
+i5023,i,Acute on chronic systolic (congestive) heart failure,Diseases of the circulatory system,7056,0.110827664,n
 i5032,i,Chronic diastolic (congestive) heart failure,Diseases of the circulatory system,6315,0.083135392,c
 i509,i,"Heart failure, unspecified",Diseases of the circulatory system,9270,0.055124056,c
 i5189,i,Other ill-defined heart diseases,Diseases of the circulatory system,169,0.047337278,c
@@ -292,15 +292,15 @@ j189,j,"Pneumonia, unspecified organism",Diseases of the respiratory system,1557
 j218,j,Acute bronchiolitis due to other specified organisms,Diseases of the respiratory system,189,0.047619048,a
 j321,j,Chronic frontal sinusitis,Diseases of the respiratory system,33,0.121212121,c
 j322,j,Chronic ethmoidal sinusitis,Diseases of the respiratory system,40,0.125,c
-j440,j,Chronic obstructive pulmonary disease with (acute) lower respiratory infection,Diseases of the respiratory system,7439,0.10700363,b
-j441,j,Chronic obstructive pulmonary disease with (acute) exacerbation,Diseases of the respiratory system,8369,0.066674633,b
+j440,j,Chronic obstructive pulmonary disease with (acute) lower respiratory infection,Diseases of the respiratory system,7439,0.10700363,n
+j441,j,Chronic obstructive pulmonary disease with (acute) exacerbation,Diseases of the respiratory system,8369,0.066674633,n
 j705,j,Respiratory conditions due to smoke inhalation,Diseases of the respiratory system,16,0.375,a
 j80,j,Acute respiratory distress syndrome,Diseases of the respiratory system,3782,0.598889476,a
 j8403,j,Idiopathic pulmonary hemosiderosis,Diseases of the respiratory system,10,0.1,c
 j9601,j,Acute respiratory failure with hypoxia,Diseases of the respiratory system,44010,0.129107021,a
 j9611,j,Chronic respiratory failure with hypoxia,Diseases of the respiratory system,3442,0.049099361,c
-j9621,j,Acute and chronic respiratory failure with hypoxia,Diseases of the respiratory system,10412,0.109969266,b
-j9622,j,Acute and chronic respiratory failure with hypercapnia,Diseases of the respiratory system,2714,0.148120855,b
+j9621,j,Acute and chronic respiratory failure with hypoxia,Diseases of the respiratory system,10412,0.109969266,n
+j9622,j,Acute and chronic respiratory failure with hypercapnia,Diseases of the respiratory system,2714,0.148120855,n
 j9851,j,Mediastinitis,Diseases of the respiratory system,60,0.416666667,a
 k029,k,"Dental caries, unspecified",Diseases of the digestive system,494,0.062753036,a
 k047,k,Periapical abscess without sinus,Diseases of the digestive system,683,0.03806735,a
@@ -1264,8 +1264,8 @@ t59811a,t,"Toxic effect of smoke, accidental (unintentional), initial encounter"
 t783xxa,t,"Angioneurotic edema, initial encounter",Injury or poisoning,210,0.104761905,a
 t82867a,t,"Thrombosis due to cardiac prosthetic devices, implants and grafts, initial encounter",Injury or poisoning,88,0.193181818,a
 t84622a,t,"Infection and inflammatory reaction due to internal fixation device of right tibia, initial encounter",Injury or poisoning,17,0.117647059,a
-t8609,t,Other complications of bone marrow transplant,Injury or poisoning,32,0.25,b
-t865,t,Complications of stem cell transplant,Injury or poisoning,115,0.260869565,b
+t8609,t,Other complications of bone marrow transplant,Injury or poisoning,32,0.25,n
+t865,t,Complications of stem cell transplant,Injury or poisoning,115,0.260869565,n
 z006,z,Encounter for examination for normal comparison and control in clinical research program,Other health services,2511,0.265232975,n
 z01118,z,Encounter for examination of ears and hearing with other abnormal findings,Other health services,81,0,n
 z051,z,Observation and evaluation of newborn for suspected infectious condition ruled out,Other health services,5375,0.044093023,n

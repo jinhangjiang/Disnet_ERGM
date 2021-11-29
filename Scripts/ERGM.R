@@ -107,7 +107,7 @@ model01 <- ergm(g1 ~ edges+nodecov(~Prevalence_20181)
                 +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
-                +nodefactor("Chronic.Indicator"),  
+                +nodefactor("Chronic.Indicator", levels=c("a","c")),  
                 control=control.ergm(MCMC.interval = 10000 ,MCMLE.maxit = 100 ,seed = 42, force.main = TRUE))
 summary(model01)
 end.time <- Sys.time()
@@ -121,7 +121,7 @@ model02 <- ergm(g2 ~ edges+nodecov(~Prevalence_20182)
                 +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
-                +nodefactor("Chronic.Indicator"),  
+                +nodefactor("Chronic.Indicator", levels=c("a","c")),  
                 control=control.ergm(MCMC.interval = 10000 ,MCMLE.maxit = 100 ,seed = 42, force.main = TRUE))
 summary(model02)
 end.time <- Sys.time()
@@ -135,7 +135,7 @@ model03 <- ergm(g3 ~ edges+nodecov(~Prevalence_20191)
                 +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
-                +nodefactor("Chronic.Indicator"),  
+                +nodefactor("Chronic.Indicator", levels=c("a","c")),  
                 control=control.ergm(MCMC.interval = 10000 ,MCMLE.maxit = 100 ,seed = 42, force.main = TRUE))
 summary(model03)
 end.time <- Sys.time()
@@ -149,7 +149,7 @@ model04 <- ergm(g4 ~ edges+nodecov(~Prevalence_20192)
                 +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
-                +nodefactor("Chronic.Indicator"),  
+                +nodefactor("Chronic.Indicator", levels=c("a","c")),  
                 control=control.ergm(MCMC.interval = 10000 ,MCMLE.maxit = 100 ,seed = 42, force.main = TRUE))
 summary(model04)
 end.time <- Sys.time()
@@ -163,7 +163,7 @@ model05 <- ergm(g5 ~ edges+nodecov(~Prevalence_20201)
                 +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
-                +nodefactor("Chronic.Indicator"),  
+                +nodefactor("Chronic.Indicator", levels=c("a","c")),  
                 control=control.ergm(MCMC.interval = 10000 ,MCMLE.maxit = 100 ,seed = 42, force.main = TRUE))
 summary(model05)
 end.time <- Sys.time()
@@ -177,7 +177,7 @@ model06 <- ergm(g6 ~ edges+nodecov(~Prevalence_20202)
                 +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
-                +nodefactor("Chronic.Indicator"),  
+                +nodefactor("Chronic.Indicator", levels=c("a","c")),  
                 control=control.ergm(MCMC.interval = 10000 ,MCMLE.maxit = 100 ,seed = 42, force.main = TRUE))
 summary(model06)
 end.time <- Sys.time()
@@ -191,7 +191,7 @@ model07 <- ergm(g7 ~ edges+nodecov(~Prevalence_20211)
                 +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
-                +nodefactor("Chronic.Indicator"),  
+                +nodefactor("Chronic.Indicator", levels=c("a","c")),  
                 control=control.ergm(MCMC.interval = 10000 ,MCMLE.maxit = 100 ,seed = 42, force.main = TRUE))
 summary(model07)
 end.time <- Sys.time()
