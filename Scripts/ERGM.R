@@ -104,7 +104,7 @@ time.taken
 start.time <- Sys.time()
 model01 <- ergm(g1 ~ edges+nodecov(~Prevalence_20181)
                 +nodecov(~Cost_support_20181)
-                +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
+                +nodefactor("Category", levels=c("Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
                 +nodefactor("Chronic.Indicator", levels=c("a","c")),  
@@ -118,7 +118,7 @@ time.taken
 start.time <- Sys.time()
 model02 <- ergm(g2 ~ edges+nodecov(~Prevalence_20182)
                 +nodecov(~Cost_support_20182)
-                +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
+                +nodefactor("Category", levels=c("Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
                 +nodefactor("Chronic.Indicator", levels=c("a","c")),  
@@ -132,7 +132,7 @@ time.taken
 start.time <- Sys.time()
 model03 <- ergm(g3 ~ edges+nodecov(~Prevalence_20191)
                 +nodecov(~Cost_support_20191)
-                +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
+                +nodefactor("Category", levels=c("Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
                 +nodefactor("Chronic.Indicator", levels=c("a","c")),  
@@ -146,7 +146,7 @@ time.taken
 start.time <- Sys.time()
 model04 <- ergm(g4 ~ edges+nodecov(~Prevalence_20192)
                 +nodecov(~Cost_support_20192)
-                +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
+                +nodefactor("Category", levels=c("Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
                 +nodefactor("Chronic.Indicator", levels=c("a","c")),  
@@ -160,7 +160,7 @@ time.taken
 start.time <- Sys.time()
 model05 <- ergm(g5 ~ edges+nodecov(~Prevalence_20201)
                 +nodecov(~Cost_support_20201)
-                +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
+                +nodefactor("Category", levels=c("Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
                 +nodefactor("Chronic.Indicator", levels=c("a","c")),  
@@ -174,7 +174,7 @@ time.taken
 start.time <- Sys.time()
 model06 <- ergm(g6 ~ edges+nodecov(~Prevalence_20202)
                 +nodecov(~Cost_support_20202)
-                +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
+                +nodefactor("Category", levels=c("Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
                 +nodefactor("Chronic.Indicator", levels=c("a","c")),  
@@ -188,7 +188,7 @@ time.taken
 start.time <- Sys.time()
 model07 <- ergm(g7 ~ edges+nodecov(~Prevalence_20211)
                 +nodecov(~Cost_support_20211)
-                +nodefactor("Category", levels=c("Other health services","Endocrine, nutritional and metabolic diseases",
+                +nodefactor("Category", levels=c("Endocrine, nutritional and metabolic diseases",
                                                  "Diseases of the circulatory system", "Mental and behavioural disorders",
                                                  "Diseases of the respiratory system"))
                 +nodefactor("Chronic.Indicator", levels=c("a","c")),  
@@ -205,81 +205,81 @@ time.taken
 
 
 
-
+gof(model01)
 
 ###### Goodness and diagnostics of model1 ######
-start.time <- Sys.time()
-gof.model1 <-gof(model01)
-par(mfrow=c(2,2))
-plot(gof.model1)
-par(mfrow=c(2,2))
-mcmc.diagnostics(model01)
-end.time <- Sys.time()
-time.taken <- end.time - start.time
-time.taken
+#start.time <- Sys.time()
+#gof.model1 <-gof(model01)
+#par(mfrow=c(2,2))
+#plot(gof.model1)
+#par(mfrow=c(2,2))
+#mcmc.diagnostics(model01)
+#end.time <- Sys.time()
+#time.taken <- end.time - start.time
+#time.taken
 
 ###### Goodness and diagnostics of model2 ######
-start.time <- Sys.time()
-gof.model2 <-gof(model02)
-par(mfrow=c(2,2))
-plot(gof.model2)
-par(mfrow=c(2,2))
-mcmc.diagnostics(model02)
-end.time <- Sys.time()
-time.taken <- end.time - start.time
-time.taken
+#start.time <- Sys.time()
+#gof.model2 <-gof(model02)
+#par(mfrow=c(2,2))
+#plot(gof.model2)
+#par(mfrow=c(2,2))
+#mcmc.diagnostics(model02)
+#end.time <- Sys.time()
+#time.taken <- end.time - start.time
+#time.taken
 
 ###### Goodness and diagnostics of model3 ######
-start.time <- Sys.time()
-gof.model13 <-gof(model03)
-par(mfrow=c(2,2))
-plot(gof.model3)
-par(mfrow=c(2,2))
-mcmc.diagnostics(model03)
-end.time <- Sys.time()
-time.taken <- end.time - start.time
-time.taken
+#start.time <- Sys.time()
+#gof.model13 <-gof(model03)
+#par(mfrow=c(2,2))
+#plot(gof.model3)
+#par(mfrow=c(2,2))
+#mcmc.diagnostics(model03)
+#end.time <- Sys.time()
+#time.taken <- end.time - start.time
+#time.taken
 
 ###### Goodness and diagnostics of model4 ######
-start.time <- Sys.time()
-gof.model4 <-gof(model04)
-par(mfrow=c(2,2))
-plot(gof.model4)
-par(mfrow=c(2,2))
-mcmc.diagnostics(model04)
-end.time <- Sys.time()
-time.taken <- end.time - start.time
-time.taken
+#start.time <- Sys.time()
+#gof.model4 <-gof(model04)
+#par(mfrow=c(2,2))
+#plot(gof.model4)
+#par(mfrow=c(2,2))
+#mcmc.diagnostics(model04)
+#end.time <- Sys.time()
+#time.taken <- end.time - start.time
+#time.taken
 
 ###### Goodness and diagnostics of model5 ######
-start.time <- Sys.time()
-gof.model5 <-gof(model05)
-par(mfrow=c(2,2))
-plot(gof.model5)
-par(mfrow=c(2,2))
-mcmc.diagnostics(model05)
-end.time <- Sys.time()
-time.taken <- end.time - start.time
-time.taken
+#start.time <- Sys.time()
+#gof.model5 <-gof(model05)
+#par(mfrow=c(2,2))
+#plot(gof.model5)
+#par(mfrow=c(2,2))
+#mcmc.diagnostics(model05)
+#end.time <- Sys.time()
+#time.taken <- end.time - start.time
+#time.taken
 
 ###### Goodness and diagnostics of model6 ######
-start.time <- Sys.time()
-gof.model6 <-gof(model06)
-par(mfrow=c(2,2))
-plot(gof.model6)
-par(mfrow=c(2,2))
-mcmc.diagnostics(model06)
-end.time <- Sys.time()
-time.taken <- end.time - start.time
-time.taken
+#start.time <- Sys.time()
+#gof.model6 <-gof(model06)
+#par(mfrow=c(2,2))
+#plot(gof.model6)
+#par(mfrow=c(2,2))
+#mcmc.diagnostics(model06)
+#end.time <- Sys.time()
+#time.taken <- end.time - start.time
+#time.taken
 
 ###### Goodness and diagnostics of model7 ######
-start.time <- Sys.time()
-gof.model7 <-gof(model07)
-par(mfrow=c(2,2))
-plot(gof.model7)
-par(mfrow=c(2,2))
-mcmc.diagnostics(model07)
-end.time <- Sys.time()
-time.taken <- end.time - start.time
-time.taken
+#start.time <- Sys.time()
+#gof.model7 <-gof(model07)
+#par(mfrow=c(2,2))
+#plot(gof.model7)
+#par(mfrow=c(2,2))
+#mcmc.diagnostics(model07)
+#end.time <- Sys.time()
+#time.taken <- end.time - start.time
+#time.taken
